@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2022-10-31 22:22:30">
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2022-10-31 22:28:30">
   <project>
     <name>Network Affect</name>
     <title>Network Affect</title>
     <author>Rhia Ro</author>
     <saveCount>1</saveCount>
-    <autoCount>44</autoCount>
-    <editTime>49816</editTime>
+    <autoCount>48</autoCount>
+    <editTime>50176</editTime>
   </project>
   <settings>
     <doBackup>True</doBackup>
@@ -14,11 +14,11 @@
     <spellCheck>False</spellCheck>
     <spellLang>None</spellLang>
     <autoOutline>True</autoOutline>
-    <lastEdited>dc9e4dc58cc69</lastEdited>
-    <lastViewed>c127d743b531f</lastViewed>
-    <lastWordCount>391</lastWordCount>
+    <lastEdited>57c70f277a68b</lastEdited>
+    <lastViewed>None</lastViewed>
+    <lastWordCount>424</lastWordCount>
     <novelWordCount>14</novelWordCount>
-    <notesWordCount>377</notesWordCount>
+    <notesWordCount>410</notesWordCount>
     <autoReplace/>
     <titleFormat>
       <title>%title%</title>
@@ -93,10 +93,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>NOTE</layout>
-      <charCount>1858</charCount>
-      <wordCount>318</wordCount>
-      <paraCount>14</paraCount>
-      <cursorPos>870</cursorPos>
+      <charCount>1969</charCount>
+      <wordCount>339</wordCount>
+      <paraCount>15</paraCount>
+      <cursorPos>513</cursorPos>
     </item>
     <item handle="44004646093c5" order="2" parent="None">
       <name>Characters</name>
@@ -155,10 +155,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>NOTE</layout>
-      <charCount>180</charCount>
-      <wordCount>30</wordCount>
+      <charCount>254</charCount>
+      <wordCount>42</wordCount>
       <paraCount>1</paraCount>
-      <cursorPos>181</cursorPos>
+      <cursorPos>0</cursorPos>
     </item>
     <item handle="9615bab8593f5" order="1" parent="b8244af0abf8a">
       <name>Nubo Station</name>
