@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2022-11-06 20:54:18">
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2022-11-07 23:07:17">
   <project>
     <name>Network Affect</name>
     <title>Network Affect</title>
     <author>Rhia Ro</author>
     <saveCount>1</saveCount>
-    <autoCount>101</autoCount>
-    <editTime>562924</editTime>
+    <autoCount>103</autoCount>
+    <editTime>657304</editTime>
   </project>
   <settings>
     <doBackup>True</doBackup>
@@ -14,10 +14,10 @@
     <spellCheck>False</spellCheck>
     <spellLang>None</spellLang>
     <autoOutline>True</autoOutline>
-    <lastEdited>bf0a646aa78da</lastEdited>
+    <lastEdited>2c0172bf711c0</lastEdited>
     <lastViewed>None</lastViewed>
-    <lastWordCount>4648</lastWordCount>
-    <novelWordCount>3839</novelWordCount>
+    <lastWordCount>5571</lastWordCount>
+    <novelWordCount>4762</novelWordCount>
     <notesWordCount>809</notesWordCount>
     <autoReplace/>
     <titleFormat>
@@ -40,7 +40,7 @@
       <entry blue="0" green="200" red="50">Main</entry>
     </importance>
   </settings>
-  <content count="16">
+  <content count="17">
     <item handle="243f632dec21c" order="0" parent="None">
       <name>Novel</name>
       <type>ROOT</type>
@@ -74,10 +74,22 @@
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>21790</charCount>
-      <wordCount>3834</wordCount>
-      <paraCount>72</paraCount>
-      <cursorPos>21719</cursorPos>
+      <charCount>26634</charCount>
+      <wordCount>4684</wordCount>
+      <paraCount>89</paraCount>
+      <cursorPos>26888</cursorPos>
+    </item>
+    <item handle="2c0172bf711c0" order="1" parent="5a670452e6fac">
+      <name>bird</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>New</status>
+      <exported>True</exported>
+      <layout>DOCUMENT</layout>
+      <charCount>439</charCount>
+      <wordCount>73</wordCount>
+      <paraCount>2</paraCount>
+      <cursorPos>34</cursorPos>
     </item>
     <item handle="5455c1f3a1c70" order="1" parent="None">
       <name>Plot</name>
