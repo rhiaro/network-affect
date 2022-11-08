@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2022-11-06 21:50:18">
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2022-11-08 22:24:34">
   <project>
     <name>Network Affect</name>
     <title>Network Affect</title>
     <author>Rhia Ro</author>
     <saveCount>1</saveCount>
-    <autoCount>102</autoCount>
-    <editTime>566284</editTime>
+    <autoCount>109</autoCount>
+    <editTime>741140</editTime>
   </project>
   <settings>
     <doBackup>True</doBackup>
@@ -16,8 +16,8 @@
     <autoOutline>True</autoOutline>
     <lastEdited>bf0a646aa78da</lastEdited>
     <lastViewed>None</lastViewed>
-    <lastWordCount>5498</lastWordCount>
-    <novelWordCount>4689</novelWordCount>
+    <lastWordCount>5573</lastWordCount>
+    <novelWordCount>4764</novelWordCount>
     <notesWordCount>809</notesWordCount>
     <autoReplace/>
     <titleFormat>
@@ -40,7 +40,7 @@
       <entry blue="0" green="200" red="50">Main</entry>
     </importance>
   </settings>
-  <content count="16">
+  <content count="18">
     <item handle="243f632dec21c" order="0" parent="None">
       <name>Novel</name>
       <type>ROOT</type>
@@ -74,10 +74,22 @@
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>26634</charCount>
+      <charCount>26633</charCount>
       <wordCount>4684</wordCount>
       <paraCount>89</paraCount>
-      <cursorPos>26888</cursorPos>
+      <cursorPos>13879</cursorPos>
+    </item>
+    <item handle="2c0172bf711c0" order="1" parent="5a670452e6fac">
+      <name>bird</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>New</status>
+      <exported>True</exported>
+      <layout>DOCUMENT</layout>
+      <charCount>439</charCount>
+      <wordCount>73</wordCount>
+      <paraCount>2</paraCount>
+      <cursorPos>473</cursorPos>
     </item>
     <item handle="5455c1f3a1c70" order="1" parent="None">
       <name>Plot</name>
@@ -200,6 +212,18 @@
       <layout>NOTE</layout>
       <charCount>6</charCount>
       <wordCount>1</wordCount>
+      <paraCount>0</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="9e142beae88fb" order="1" parent="5cb554cb8a379">
+      <name>New File</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>New</status>
+      <exported>True</exported>
+      <layout>DOCUMENT</layout>
+      <charCount>8</charCount>
+      <wordCount>2</wordCount>
       <paraCount>0</paraCount>
       <cursorPos>0</cursorPos>
     </item>
