@@ -188,6 +188,32 @@ Gull was watching bird with a look of gentle amusement. In front of them, their 
 
 Gull nodded, like they understood, and sipped their drink.
 
+"After they entered 'Cake', Gull had switched into speaking Naliq. Bird followed suit without missing a beat. They spent some time in silence, staring down at the eddying sky.
+
+"Do you like the view?" Gull asked.
+
+Bird nodded.
+
+"It usually changes so much every day. We've been in this cloud for longer than usual."
+
+"What is it, do you know?
+
+"Don't you listen to planet reporting? There was a volcanic eruption on an island off the Dam Bashi continent. Far from here, but the fallout has drifted. They think it will be like this for a while. It's messing with a lot of the sensing equipment."
+
+"You come here a lot? What's the view usually like?"
+
+"Oh, yes! It's the best place to see the planet from in the whole Loop I think. And I share my home pod with my brother, whose pretty much there all the time so... I like to spend time in other places. That's why I take so many classes," they laughed.
+
+Bird felt herself warming to Gull. They had a serene presence, but a twinkle in their eye. Every smile seemed entirely heartfelt.
+
+The two of them chatted about the planet below. Gull described their favourite views from this window. Frozen tundras crisscrossed with deep chasms that from their vantage point high above looked like an enormous web entrapping the ground. Rippling dunes of sand, a substance they had both heard about but never run through their fingers. Dark rocks shaped like monstrous creatures, as if giants had been raging and thrashing across the landscape and then all at once frozen stiff, locked in time and space. And the clouds!  More than anything else, endless, never still, in every shape, size and colour they could imagine.
+
+"Sometimes I look out here for so long I dream about the clouds," Gull confided. "I close my eyes and I just see the cloud patterns inside my eyelids."
+
+"What does it sound like?" Bird mused out loud. "Planet sounds."
+
+"I wonder if we'll find out in our lifetimes."
+
 ## (Bird)
 
 "Sure, you're a preservationist when it suits you!" An angry voice rang down the corridor, reverberating off stark metal wall panels. "But as soon as it's a little bit inconvenient for you personally, different rules apply! Exceptions can be made!"
@@ -333,4 +359,64 @@ Bird felt like Moss was weighing her up. Deciding how far to take the conversati
 "Not quite. The microphone on th eFonu isn't good enough to pic up anything outside of a really short range, and to filter ambient sounds to boot. It all has to go through Nubo."
 
 Bird cringed. Of course she knew that the Station was peppered with sensing devices of all kinds. How could it not be to effectively support the population? But the reminder that it could replay to an individual directly was a reminder that it could do the same to someone in another room, or even another Loop, and a further reminder that it could record and store every conversation everywhere too.
+
+"Believe me I'd rather be using a custom system," said Moss. "But I've tried. Even interface which claim to be accessible only work half the time. They're all optimised for different things. I can't be without reliable hearing on this Station. It's just not a compromise I can make."
+
+"Surely there's work going on to improve the situation?"
+
+"Surely, surely," muttered Moss. "The Station has a standardised interface. Decades of work went into ensuring that." He looked sidelong at Bird. "You know something about that, I think. Sure, anyone can build or set up an interface between a Fonu and the Station. Anyone _could_ be working on this. But it's not part of any official function. It hasn't been a priority for who knows how many cycles. Since most truly custom systems are actively deficient in terms of features compared to the Core Set, most Deaf folks don't even consider that it's worth looking for alternatives. Most people in general. Everyone wants 'upgrades', which they think are customisations, but really are just derivatives of the Core Set. Or people just have other things to be worrying about."
+
+"Like power outages." Said Chinchilla.
+
+* * *
+
+Coral and Bird walked back to the Residential District together. They discussed Bird's nomination for an equipment sterilisation function. The need had not yet been advertised, but coral knew one of his lab colleagues was moving to the Gebru Loop to fulfill a parental function there.
+
+"The moment they announce, I'll put your nomination in. It'd look a bit odd if you nominate yourself after it's only gone around internal bulletins. But they might not even bother to do an external call for a foundational function. They don't always. Though people in myco aren't usually looking to switch around from their specialisation."
+
+"Thanks," said Bird. She gestured over her Fonu display to send the qualification information Coral needed to nominate her. If the nomination committee considered her experience and personal qualities to be suitable, they would put her forward as an option to the group who took care of cleaning functions for the mycolabs. If there were no objections - and why would there be? She knew none of them - they would accept her into the function. The group would also coordinate of course with those who oversaw  air filter cleaning, where she held her current function. The only hindrance might be if for some reason they objected to letting her go. She didn't think they would though. She had done nothing to distinguish herself over the past few cycles, and they were rarely short-handed.
+
+She could be a member of the mycolabs before the next tenday was up.
+
+"Hey Bird?" Coral's tone had changed. "What are you doing next secondday?"
+
+Bird thought for a moment, then consulted the schedule on her Fonu to be sure. Nothing fixed, so flexible all day, but a reminder flashed up about why the date was important to Coral.
+
+"Do you think ... would you come with me to the Junction 48 memorial?"
+
+"Of course. That's already in my schedule, actually."
+
+It would be exactly twelve cycles since the disaster that had destroyed sections forty eight and forty nine of the Residential District. Something had been propelled at the Station - from above or below or even from within was still a matter for debate - and blasted through a critical junction connector. The impact had rippled through the inner and outer layers of the Station's structure and shattered several stretches of protective plating. The whole sections, over a hundred households containing three hundred and fourteen people, adults and children, had been pulled out of the Station and into _beyond_ before the alarms had even begun to sound. The timing meant that many people had been away from home. It could have been a lot worse.
+
+Coral was one of those who had been away, in class, a burgeoning mycologist. But his entire family had been in their home pod.
+
+After the initial breach, the damage to the Station had been quickly repaired. But the damage to the residents of the Turing Loop would not be healed for a generation.
+
+They walked in silence. Bird's mind drifted back to their conversation with Moss. She pondered her distaste for the Core Set of interface applications, and felt troubled by the thought that some members of the population had no choice but to use them. Most people had some kind of upgraded experiences, choosing to go in the opposite direction to Bird in terms of their customisations. People wanted to add features, not remove them. They wanted seamless integration with the ever improving Nubo Station affordances. they wanted accurate navigation, schedule reminders, and predictive notifications and games they could play with their friends on the other side of the Loop. Perhaps that was why Bird didn't have many friends.
+
+"Thanks," said Bird as she and Coral stepped out of the chute into their home sector. For the nomination. And the suggestion. It's time I changed something."
+
+"It'll be great!" Coral gave her a high five.
+
+They parted ways at junction two hundred and eight, though they only lived a short, brisk walk away from each other.
+
+Bird pressed her palm on the smooth panelling of her pod door to trigger the opening. Most people configured their Fonu to open doors for them as they approached. Bird preferred to be more intentional about it.
+
+## (Mustard)
+
+It was a long walk to the train station, or at least it felt like it for people with short legs. Sushi didn't complain though. She and Mustard crossed the equivalent of the entire length of the Great House, although they were some distance from its walls, before they reached their wheels. The duo knew how to shorten their journey. There was a stash of ancient metal carts, rickety and wobbling, but functional still by much the same miracle that the Houses of Sco were still standing in the first place when everything else for miles around had at some point been flattened.
+
+That was Sushi's theory. It was contraversial. Everyone else seemed to assume that Sco had been built up, the only refuge for people in the barren landscape. They ritualistically thanked their unknown founders on special occasions, like the two-train day that came once a year. That day began the year, in fact. But Sushi speculated that in times long past, the Houses of Sco had stood among many similar structures, and that the landscape had once been as built up as it now was empty. Then something had come to destroy everything else, flattening the lot, and leaving only the Houses of Sco standing.
+
+Mustard thought her theory was no less beautiful and miraculous than the idea that Sco had been specially raised up. Still something made their home significant. But most everyone else took some kind of umbridge with her ideas, especially when they realised they were hearing them from a five year old. So she shared them with Mustard, and no-one else.
+
+They entered a small building which didn't have much of a roof left and wasn't used for anything. It took both of them to drag a clanging grate away from a hole in the floor, though Mustard was sure it got easier every time they tried. And then Mustard reached into the darkness under the floor and felt around for a piece of cloth-rope. He found it easily and pulled and the trolley handles appeared in the opening. Both of them seized the handles, and hauled the contraption out from its secret hiding place.
+
+The cart was a precious artefact. Most things with wheels had been pilfered and repurposed long ago. Certainly the other kids knew Mustard and Sushi had it. It would have been useless if they couldn't even use it for fear of discovery. And there were a few in circulation. But a code of honour meant that none of the others would try to take it by force. Prizes like this changed hands only when the holder was outsmarted. And nobody outsmarted Sushi.
+
+Sushi clambered into the basket and Mustard pushed her outside. Struggling a little, he steered her over gravelly ground until they reached the flat smooth stretch that lead almost all the way to the train station.
+
+He kicked off, running to build up speed, and then jumped to balance the balls of his feet on the bar between the wheels, his momentum carrying them forward even further.
+
+He had to lower one foot a few times to maintain speed, but a very slightly downward incline meant that they could cruise for the rest of their journey.
 

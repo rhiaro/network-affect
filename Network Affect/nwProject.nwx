@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2022-11-09 23:11:40">
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2022-11-10 23:24:20">
   <project>
     <name>Network Affect</name>
     <title>Network Affect</title>
     <author>Rhia Ro</author>
     <saveCount>1</saveCount>
-    <autoCount>120</autoCount>
-    <editTime>830367</editTime>
+    <autoCount>126</autoCount>
+    <editTime>917526</editTime>
   </project>
   <settings>
     <doBackup>True</doBackup>
@@ -14,11 +14,11 @@
     <spellCheck>False</spellCheck>
     <spellLang>None</spellLang>
     <autoOutline>True</autoOutline>
-    <lastEdited>2c0172bf711c0</lastEdited>
+    <lastEdited>f210391583991</lastEdited>
     <lastViewed>None</lastViewed>
-    <lastWordCount>8173</lastWordCount>
-    <novelWordCount>7346</novelWordCount>
-    <notesWordCount>827</notesWordCount>
+    <lastWordCount>9961</lastWordCount>
+    <novelWordCount>9129</novelWordCount>
+    <notesWordCount>832</notesWordCount>
     <autoReplace/>
     <titleFormat>
       <title>%title%</title>
@@ -40,7 +40,7 @@
       <entry blue="0" green="200" red="50">Main</entry>
     </importance>
   </settings>
-  <content count="18">
+  <content count="19">
     <item handle="243f632dec21c" order="0" parent="None">
       <name>Novel</name>
       <type>ROOT</type>
@@ -74,10 +74,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>26630</charCount>
-      <wordCount>4682</wordCount>
-      <paraCount>89</paraCount>
-      <cursorPos>12</cursorPos>
+      <charCount>28530</charCount>
+      <wordCount>5023</wordCount>
+      <paraCount>102</paraCount>
+      <cursorPos>28810</cursorPos>
     </item>
     <item handle="2c0172bf711c0" order="1" parent="5a670452e6fac">
       <name>bird</name>
@@ -86,10 +86,22 @@
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>15245</charCount>
-      <wordCount>2657</wordCount>
-      <paraCount>72</paraCount>
-      <cursorPos>9</cursorPos>
+      <charCount>20559</charCount>
+      <wordCount>3559</wordCount>
+      <paraCount>92</paraCount>
+      <cursorPos>20779</cursorPos>
+    </item>
+    <item handle="f210391583991" order="2" parent="5a670452e6fac">
+      <name>train station</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>New</status>
+      <exported>True</exported>
+      <layout>DOCUMENT</layout>
+      <charCount>3037</charCount>
+      <wordCount>540</wordCount>
+      <paraCount>8</paraCount>
+      <cursorPos>42</cursorPos>
     </item>
     <item handle="5455c1f3a1c70" order="1" parent="None">
       <name>Plot</name>
@@ -191,10 +203,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>NOTE</layout>
-      <charCount>231</charCount>
-      <wordCount>39</wordCount>
-      <paraCount>4</paraCount>
-      <cursorPos>256</cursorPos>
+      <charCount>266</charCount>
+      <wordCount>44</wordCount>
+      <paraCount>5</paraCount>
+      <cursorPos>291</cursorPos>
     </item>
     <item handle="5cb554cb8a379" order="4" parent="None">
       <name>Trash</name>
