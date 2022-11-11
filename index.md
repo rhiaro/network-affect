@@ -24,6 +24,8 @@ Mustard could remember when she was born, just about. Everyone had been surprise
 
 "We were all… doing the same thing. We had to do the same thing. Everyone together working for the same thing. I couldn't talk to anyone around me, but I could feel it, I knew it, even though nobody talked." Mustard frowned, trying to remember what the the thing was, exactly.
 
+As the daytime gradually emerged, Mustard looked west to see a single light moving steadily across the landscape. The light was at the head of a lithe metallic creature snaking gently towards them. From this distance it was silent, but when it drew closer they would hear its rhythmic chuckling.
+
 Sushi put the finishing touches to the final clouds in her sketch with a flick of her wrist. She captured some as they were reaching as long, gnarled fingers to claw at the earth. The mounds beneath them were narrow and twisted, almost a mirror image, reaching back up to the sky.
 
 "We shared a purpose," she said, rubbing her blackened fingers ineffectually against her coarse tunic. So much charcoal stained the tunic already that it made no difference, either to clothes or hands. "We were united with a goal."
@@ -58,7 +60,7 @@ On the Ground Floor, they passed briefly along the edge of the main interior of 
 
 Outside, the air was humid. The ground was hard and black and as flat between the Houses as it was in the surrounding lands. Someone had built a miniature diorama of the southern conical mounds by stacking stones and small chunks of rock and other debris. The clouds overhead had evened out into a smooth mass with no depth whatsoever, and glowed the usual brownish orange of the morning.
 
-Mustard and Sushi joined a growing crowd of people their own age who were waiting for their first meal of the day outside of the Eating House. When their turn came, they each reached a cup into a large vat of stinking green-brown _nutri_ sludge.
+Mustard and Sushi joined a growing crowd of people their own age who were waiting for their first meal of the day outside of the Eating House. In the distance they heard the morning train that they had seen from the rooftop rumble by. Its passing signified time for the doors of the Eating House to open. When their turn came, they each reached a cup into a large vat of stinking green-brown _nutri_ sludge.
 
 "Thick today," said Mustard. Often they could drink it straight down, but this morning a spoon was required.
 
@@ -231,6 +233,18 @@ Sushi clambered into the basket and Mustard pushed her outside. Struggling a lit
 He kicked off, running to build up speed, and then jumped to balance the balls of his feet on the bar between the wheels, his momentum carrying them forward even further.
 
 He had to lower one foot a few times to maintain speed, but a very slightly downward incline meant that they could cruise for the rest of their journey.
+
+The train station was a very different place to the Houses of Sco. They called it Sco Station, because nobody could read the remains of the signs that hung there. It wasn't much of a building. One half of it had been perhaps, once. This led credence to Sushi's theory that their home had been spared, rather than built.
+
+On the north side of the railway tracks, the bulk of the station stood. A broad wall, brick, rather than the metal that made up the Houses, backed a raised platform. The platform stood at the perfect level for boarding and alighting from the trains that stopped there. The wall was, by Mustard and Sushi's calculations, the remaining one of four. It had in it gaps for windows and doors, and some of the dilapidated brickwork at either end suggested corners, poking out at right angles away from the direction of the platform. Another platform and another wall stood similarly on the south side of the tracks. This wall gave more of an impression of standing alone. The purpose it served was to support what might once have been a roof that peaked over the tracks, connecting the two walls together. The roof, what was left of it, was just some metal beams, rusted orange but nonetheless solid. Mustard had tested this by climbing and swinging from them, when he was younger.
+
+There was only one set of tracks. Trains came and went in both directions.
+
+The trains had no drivers, no crew. Nobody in the Houses of Sco had any reason to expect that they should.
+
+They were simply part of the world, and one of the more dependable parts at that.
+
+The morning train did not stop at Sco station, but the next train, the long train, did. It was due soon, and Mustard and Sushi scrambled down onto the tracks to listen for its approach.
 
 ## The Mycolabs
 
@@ -420,6 +434,10 @@ They parted ways at junction two hundred and eight, though they only lived a sho
 
 Bird pressed her palm on the smooth panelling of her pod door to trigger the opening. Most people configured their Fonu to open doors for them as they approached. Bird preferred to be more intentional about it.
 
+## Journey south
+
+In which Mustard and Sushi board a train
+
 ## Remembering junction 48
 
 The next time Bird saw Gull, she was walking with Coral to the Junction 48 memorial. The memorial itself was not actually at junction 48, or even in the Residential District at all. Space was at too much of a premium in the Turing Loop to leave home pods empty, no matter what had befallen them. There had been no hesitation among new families to move in; it was very reasonablle to assume that the repairs and reinforcement that had taken place after the disaster made the area more safe, overall, rather than being a risky place to live.
@@ -449,4 +467,18 @@ Coral rose and simply read the five names of his household. Two younger siblings
 When the junction 48 accident had happened, Coral was just beginning to recover from losing another parent and sibling, in the preceding year. Two different terminal illnesses, one long and one sudden, was already a lot for his family to bear. But they could, at least, bear it together.
 
 Family was a fluid concept on Nubo Station, similarly in all of the Loops. They tended to be large, changeable, and chosen. Blood ties were not important after centuries of careful population control and communal child raising. Coral could have sought a new family to join. Many of the survivors did so. But he opted instead to move to a solo home pod, and had stayed there ever since.
+
+## …
+
+In which Mustard and Sushi have some giant fungal adventures
+
+## …
+
+In which we find out that Nubo is listening / pervaded by mycelia, and about the project connecting the station to the planet
+
+## …
+
+In which Mustard and Sushi find out more about the railway.
+
+## …
 
