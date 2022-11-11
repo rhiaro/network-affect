@@ -2,7 +2,7 @@
 
 By Rhia Ro
 
-## (Mustard)
+## At the center of the universe
 
 The planet turned, and the Houses of Sco turned with it, but the residents never witnessed the sun appear above the horizon. Nor did they see it dip below, to mark a day's end. The world lightened a little, then darkened a little, that was all.
 
@@ -72,7 +72,7 @@ Fifteen children sat in a rough circle and ate or smeared their _nutri_. These w
 
 Mustard frowned.
 
-## (Bird)
+## Above the beyond
 
 Bird had lived in the Turing Loop of the Nubo Station for her whole life, but she still found herself getting lost between levels five and seven. All the levels in the Education District looked alike: white panelled walls, soft encouragingly green floors, and door after sliding door of study and seminar rooms. The rooms were named, instead of numbered, which was nice because they were a continuous reminder of the great minds throughout history without whom the Nubo Station would not have existed; thanks due to every discipline imaginable. But for those who had not made a study of these people and their works and their relationships to each other - as Bird had not - and whose scheduler continually failed to include junction coordinates with the meeting location - as Bird's always did - it was less than a convenient system.
 
@@ -160,15 +160,15 @@ They followed the curve around, then went into a chute to go up two levels. It w
 
 The place was dim and cosy. Enclosed by thin walls in shades of brown and burnt orange, 'Cake' was in a controversial position against the very edge of the Dome. Instead of walling off the sheer transparent plexi like many places on the outer ring, they had embraced their location and foregone artificial light in favour of the mottled natural light that seeped in from _beyond_.  Gull paused to ask Bird where she would like to sit. Bird took it for granted that Gull would be joining her, and pointed to a seat by this window to the outside world. The seats were comfortable, sinking velvety armchairs.
 
-The menu appeared on her forearm with a chirrup. She ignored it, and leaned forward to stare at the eddies of dark sand that swirled _beyond_. For the past ten years, the Commercial District had found itself peeking out above a  storm of whirling debris, just loose enough to allow threads of pure sunlight through the sides. Today the light was tinted to darker shades by the raging sand and dust, and cast ever moving patterns across the walls in 'Cake'. Someone smart had designed the decor to complement this. She pressed her fingers on the plexi. It all seemed so close, the chaos. Inches away from her face. But there were metres and metres of material between Bird and _beyond_.
+The menu appeared on her forearm with a chirrup. She ignored it, and leaned forward to stare at the eddies of dark sand that swirled _beyond_. For the past ten years, the Commercial District had found itself peeking out above a storm of whirling debris, just loose enough to allow threads of pure sunlight through the sides. Today the light was tinted to darker shades by the raging sand and dust, and cast ever moving patterns across the walls in 'Cake'. Someone smart had designed the decor to complement this. She pressed her fingers on the plexi. It all seemed so close, the chaos. Inches away from her face. But there were metres and metres of material between Bird and _beyond_.
 
-_How did we live out there?_  She wondered.
+_How did we live out there?_ She wondered.
 
 Gull was browsing the menu. Bird watched for a moment, then decided to do the same. She suddenly felt a need for something warm and comforting. Most places had a fairly standard selection of items to cover nutritional needs, but 'Cake' seemed to have applied the logic of customisations that one usually found for clothes, to consumables.
 
 She tapped through flavour and texture combinations, deciding vaguely that she wanted a liquid; something thick and foamy. Perhaps a hint of mint layered with rich, smoky, chocolate-esque tones. She moved a slider to increase the size of her drink, and hovered her finger over the selection confirmation button (labelled, jovially, as "Yes please!"). She hesitated, realising she had left the _colour_ unset. It would probably come out matching the decor, and at that moment she wanted something to counteract the shades of the angrily swirling _beyond_. She moved the hue slider around, and settled on a warm, deep pink.
 
-Bird placed her order. A few moments later, a matt grey disk in the centre of the table in front of her began to hum softly.  She leaned forwards in anticipation, tapping her fingers against the perspex that made up the rest of the table. A loading bar appeared over the menu on her wrist display to indicate the progress of her drink. Bird noticed that when she wasn't focusing on it, the table seemed to disappear, transparent as it was, catching and refracting the moving shadow patterns that poured in through the side of the Dome, from _beyond_.
+Bird placed her order. A few moments later, a matt grey disk in the centre of the table in front of her began to hum softly. She leaned forwards in anticipation, tapping her fingers against the perspex that made up the rest of the table. A loading bar appeared over the menu on her wrist display to indicate the progress of her drink. Bird noticed that when she wasn't focusing on it, the table seemed to disappear, transparent as it was, catching and refracting the moving shadow patterns that poured in through the side of the Dome, from _beyond_.
 
 A cube with edges of white light appeared, suspended over the disk in the centre. It began fill from the bottom, turning the rich pink Bird had chosen. She leaned forwards further and unconsciously licked her lips. She could see tiny bubbles. Her Fonu beeped to get her attention and she was prompted to choose a holder for her liquid from a selection of four. She tapped the icon for a tall holder, cylindrical and transparent. The beaker appeared as the white edges of the cube vanished, and the pink liquid sloshed down into the container.
 
@@ -206,7 +206,7 @@ Bird nodded.
 
 Bird felt herself warming to Gull. They had a serene presence, but a twinkle in their eye. Every smile seemed entirely heartfelt.
 
-The two of them chatted about the planet below. Gull described their favourite views from this window. Frozen tundras crisscrossed with deep chasms that from their vantage point high above looked like an enormous web entrapping the ground. Rippling dunes of sand, a substance they had both heard about but never run through their fingers. Dark rocks shaped like monstrous creatures, as if giants had been raging and thrashing across the landscape and then all at once frozen stiff, locked in time and space. And the clouds!  More than anything else, endless, never still, in every shape, size and colour they could imagine.
+The two of them chatted about the planet below. Gull described their favourite views from this window. Frozen tundras crisscrossed with deep chasms that from their vantage point high above looked like an enormous web entrapping the ground. Rippling dunes of sand, a substance they had both heard about but never run through their fingers. Dark rocks shaped like monstrous creatures, as if giants had been raging and thrashing across the landscape and then all at once frozen stiff, locked in time and space. And the clouds! More than anything else, endless, never still, in every shape, size and colour they could imagine.
 
 "Sometimes I look out here for so long I dream about the clouds," Gull confided. "I close my eyes and I just see the cloud patterns inside my eyelids."
 
@@ -214,7 +214,25 @@ The two of them chatted about the planet below. Gull described their favourite v
 
 "I wonder if we'll find out in our lifetimes."
 
-## (Bird)
+## The train station
+
+It was a long walk to the train station, or at least it felt like it for people with short legs. Sushi didn't complain though. She and Mustard crossed the equivalent of the entire length of the Great House, although they were some distance from its walls, before they reached their wheels. The duo knew how to shorten their journey. There was a stash of ancient metal carts, rickety and wobbling, but functional still by much the same miracle that the Houses of Sco were still standing in the first place when everything else for miles around had at some point been flattened.
+
+That was Sushi's theory. It was contraversial. Everyone else seemed to assume that Sco had been built up, the only refuge for people in the barren landscape. They ritualistically thanked their unknown founders on special occasions, like the two-train day that came once a year. That day began the year, in fact. But Sushi speculated that in times long past, the Houses of Sco had stood among many similar structures, and that the landscape had once been as built up as it now was empty. Then something had come to destroy everything else, flattening the lot, and leaving only the Houses of Sco standing.
+
+Mustard thought her theory was no less beautiful and miraculous than the idea that Sco had been specially raised up. Still something made their home significant. But most everyone else took some kind of umbridge with her ideas, especially when they realised they were hearing them from a five year old. So she shared them with Mustard, and no-one else.
+
+They entered a small building which didn't have much of a roof left and wasn't used for anything. It took both of them to drag a clanging grate away from a hole in the floor, though Mustard was sure it got easier every time they tried. And then Mustard reached into the darkness under the floor and felt around for a piece of cloth-rope. He found it easily and pulled and the trolley handles appeared in the opening. Both of them seized the handles, and hauled the contraption out from its secret hiding place.
+
+The cart was a precious artefact. Most things with wheels had been pilfered and repurposed long ago. Certainly the other kids knew Mustard and Sushi had it. It would have been useless if they couldn't even use it for fear of discovery. And there were a few in circulation. But a code of honour meant that none of the others would try to take it by force. Prizes like this changed hands only when the holder was outsmarted. And nobody outsmarted Sushi.
+
+Sushi clambered into the basket and Mustard pushed her outside. Struggling a little, he steered her over gravelly ground until they reached the flat smooth stretch that lead almost all the way to the train station.
+
+He kicked off, running to build up speed, and then jumped to balance the balls of his feet on the bar between the wheels, his momentum carrying them forward even further.
+
+He had to lower one foot a few times to maintain speed, but a very slightly downward incline meant that they could cruise for the rest of their journey.
+
+## The Mycolabs
 
 "Sure, you're a preservationist when it suits you!" An angry voice rang down the corridor, reverberating off stark metal wall panels. "But as soon as it's a little bit inconvenient for you personally, different rules apply! Exceptions can be made!"
 
@@ -374,7 +392,7 @@ Coral and Bird walked back to the Residential District together. They discussed 
 
 "The moment they announce, I'll put your nomination in. It'd look a bit odd if you nominate yourself after it's only gone around internal bulletins. But they might not even bother to do an external call for a foundational function. They don't always. Though people in myco aren't usually looking to switch around from their specialisation."
 
-"Thanks," said Bird. She gestured over her Fonu display to send the qualification information Coral needed to nominate her. If the nomination committee considered her experience and personal qualities to be suitable, they would put her forward as an option to the group who took care of cleaning functions for the mycolabs. If there were no objections - and why would there be? She knew none of them - they would accept her into the function. The group would also coordinate of course with those who oversaw  air filter cleaning, where she held her current function. The only hindrance might be if for some reason they objected to letting her go. She didn't think they would though. She had done nothing to distinguish herself over the past few cycles, and they were rarely short-handed.
+"Thanks," said Bird. She gestured over her Fonu display to send the qualification information Coral needed to nominate her. If the nomination committee considered her experience and personal qualities to be suitable, they would put her forward as an option to the group who took care of cleaning functions for the mycolabs. If there were no objections - and why would there be? She knew none of them - they would accept her into the function. The group would also coordinate of course with those who oversaw air filter cleaning, where she held her current function. The only hindrance might be if for some reason they objected to letting her go. She didn't think they would though. She had done nothing to distinguish herself over the past few cycles, and they were rarely short-handed.
 
 She could be a member of the mycolabs before the next tenday was up.
 
@@ -402,21 +420,33 @@ They parted ways at junction two hundred and eight, though they only lived a sho
 
 Bird pressed her palm on the smooth panelling of her pod door to trigger the opening. Most people configured their Fonu to open doors for them as they approached. Bird preferred to be more intentional about it.
 
-## (Mustard)
+## Remembering junction 48
 
-It was a long walk to the train station, or at least it felt like it for people with short legs. Sushi didn't complain though. She and Mustard crossed the equivalent of the entire length of the Great House, although they were some distance from its walls, before they reached their wheels. The duo knew how to shorten their journey. There was a stash of ancient metal carts, rickety and wobbling, but functional still by much the same miracle that the Houses of Sco were still standing in the first place when everything else for miles around had at some point been flattened.
+The next time Bird saw Gull, she was walking with Coral to the Junction 48 memorial. The memorial itself was not actually at junction 48, or even in the Residential District at all. Space was at too much of a premium in the Turing Loop to leave home pods empty, no matter what had befallen them. There had been no hesitation among new families to move in; it was very reasonablle to assume that the repairs and reinforcement that had taken place after the disaster made the area more safe, overall, rather than being a risky place to live.
 
-That was Sushi's theory. It was contraversial. Everyone else seemed to assume that Sco had been built up, the only refuge for people in the barren landscape. They ritualistically thanked their unknown founders on special occasions, like the two-train day that came once a year. That day began the year, in fact. But Sushi speculated that in times long past, the Houses of Sco had stood among many similar structures, and that the landscape had once been as built up as it now was empty. Then something had come to destroy everything else, flattening the lot, and leaving only the Houses of Sco standing.
+So they had taken a main chute down into the Dome, pushed their way through milling crowds, and headed towards one of the few really open spaces on the Station, a gathering place.
 
-Mustard thought her theory was no less beautiful and miraculous than the idea that Sco had been specially raised up. Still something made their home significant. But most everyone else took some kind of umbridge with her ideas, especially when they realised they were hearing them from a five year old. So she shared them with Mustard, and no-one else.
+Bird had not exchanged any contact information with Gull after their time together in 'Cake'. She realised later that Gull's Fonu had probably automatically probed hers for connection information, and Gull had probably assumed it had worked as it normally would. But Bird's system was set to share nothing unless she explicitly authorised it, and she kept connection request notifications turned off or she would have been constantly innundated with them every time she went near other people. _I'll see them again_, she had thought, _if the universe wills it_.
 
-They entered a small building which didn't have much of a roof left and wasn't used for anything. It took both of them to drag a clanging grate away from a hole in the floor, though Mustard was sure it got easier every time they tried. And then Mustard reached into the darkness under the floor and felt around for a piece of cloth-rope. He found it easily and pulled and the trolley handles appeared in the opening. Both of them seized the handles, and hauled the contraption out from its secret hiding place.
+The gathering place was open for several storeys upwards, a cylinder carved out of what was otherwise layer upon layer of corridors and rooms. It wasn't an enormous space - perhaps twice the size of a family home pod across - but modified panelling projected with images of wide, distant places made it feel far bigger than it was.
 
-The cart was a precious artefact. Most things with wheels had been pilfered and repurposed long ago. Certainly the other kids knew Mustard and Sushi had it. It would have been useless if they couldn't even use it for fear of discovery. And there were a few in circulation. But a code of honour meant that none of the others would try to take it by force. Prizes like this changed hands only when the holder was outsmarted. And nobody outsmarted Sushi.
+On this day, they were surrounded by a view of outer space. Stars glittered, bright and distant against a backdrop of velvety blackness. It wasn't an unfamiliar scene. An observation room at the very pinnacle of Nubo Station's core structure was available for anyone to see out at the night sky for themselves, providing they joined the list and patiently waited for their turn.
 
-Sushi clambered into the basket and Mustard pushed her outside. Struggling a little, he steered her over gravelly ground until they reached the flat smooth stretch that lead almost all the way to the train station.
+A crowd had gathered at one edge of the space for the memorial. As bird and Coral headed over it became clear that some kind of muted argument was taking place. Bird saw Gull and several others all dressed in a white, flowing, mesh-like tunics. She almost called out in greeting, when she realised one of the white-adorned people was in furious conversation with Tick, the convener of the memorial.
 
-He kicked off, running to build up speed, and then jumped to balance the balls of his feet on the bar between the wheels, his momentum carrying them forward even further.
+By the time Bird and Coral were in earshot, it was all over. The group dressed in white, Gull included, had turned on their heels and were stalking away. Each one of them clutched a small packet of something to their chests. Gull hadn't seen Bird approaching.
 
-He had to lower one foot a few times to maintain speed, but a very slightly downward incline meant that they could cruise for the rest of their journey.
+"What was that about?" Coral asked Tick.
+
+Tick sighed. "Zhomics," came the reply. "They reckon they were here first, and by the way would we like to try some of their magic fruit, it'll help us to feel our lost loved ones better." Tick's eyes rolled exaggeratedly. "I told them to get lost. They're quite passive really, their preaching just drives me round the curve."
+
+Bird stared after the doorway through which Gull and their companions had just exited. _A Zhomic_. She never hastened to judge, but the Zhomics did not have a reputation for representing the peak of sanity on Nubo.
+
+Attendees at the momemorial took it in turns to speak about those they had lost. Inkeeping with the general culture on Nubo, there was no podium and no order of services. The group sat in a roughly circular cluster, facing inwards. They rose to speak, when they felt the time was right, and indicated their readiness to speak next by elevating themselves into a slight crouch. Some sang. Many wept.
+
+Coral rose and simply read the five names of his household. Two younger siblings and three parents. He started to say more, but the words stuck in his throat. He sat back down, and Bird took his hand.
+
+When the junction 48 accident had happened, Coral was just beginning to recover from losing another parent and sibling, in the preceding year. Two different terminal illnesses, one long and one sudden, was already a lot for his family to bear. But they could, at least, bear it together.
+
+Family was a fluid concept on Nubo Station, similarly in all of the Loops. They tended to be large, changeable, and chosen. Blood ties were not important after centuries of careful population control and communal child raising. Coral could have sought a new family to join. Many of the survivors did so. But he opted instead to move to a solo home pod, and had stayed there ever since.
 
