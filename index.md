@@ -246,6 +246,34 @@ They were simply part of the world, and one of the more dependable parts at that
 
 The morning train did not stop at Sco station, but the next train, the long train, did. It was due soon, and Mustard and Sushi scrambled down onto the tracks to listen for its approach.
 
+As Mustard crouched down to press his ear to the tracks, he thought he saw something very small scuttle away. He reached out his hand and turned the dust and gravel about. There was nothing there of course. when had there ever been? The only other living thing people shared this land with were the sleek looming trains.
+
+The dream he had had just hours before flashed into his head. Scuttling things had been there, too.
+
+"Feel it!" Squealed Sushi, bouncing to her feet. She always detected the trains' approach half a moment before Mustard did.
+
+They pulled themselves back onto the north platform, and then climbed the back of the wall remains, onto the roof beams. Here they hung on, hands and clothes stained by the scratchy rust, and spotted the oncoming train in the distance.
+
+Mustard knew at once something was wrong.
+
+"It's too fast!" He called to Sushi, who had her small arms and legs fully wrapped around an adjacent beam. She looked stricken, but didn't move. Coming ever closer, the train swayed alarmingly as it followed the curve of the track. For one terrifying moment, it seemed almost that it would tip over onto its side. At the last second it righted itself, then thundered by underneath the watching pair.
+
+They came out here to watch the trains pass regularly, and nether had ever seen anything like this.
+
+Mustard realised he had had his eyes squeezed tightly shut, face bunched. He looked over at Sushi. Her face was streaked with frightened tears, which made his own eyes well up.
+
+"Get down carefully," he warned her, making sure to reach the ground first so that he could catch her if she fell. They were both trembling.
+
+"We have to go back," Sushi was composed now, just a small edge of panic remained in her voice. "It's not right. In the ground. I can _feel_ it. Everything is not right."
+
+"What happened to Lemonade?" Mustard gasped. "Why didn't it stop?"
+
+They were bewildered as they untied their trolley and made haste back to the Houses. The return journey was always more difficult uphill, but this time it passed Mustard by in a blur. He didn't stop pushing the trolley until he reached the square outside of the Eating House. He finally halted, sweating and panting. When the sound of blood pounding in his ears subsided, he realised it was strangely quiet.
+
+"Where is everyone," he murmured, looking into the basket at his sister-friend.
+
+Sushi was unconscious.
+
 ## The Mycolabs
 
 "Sure, you're a preservationist when it suits you!" An angry voice rang down the corridor, reverberating off stark metal wall panels. "But as soon as it's a little bit inconvenient for you personally, different rules apply! Exceptions can be made!"
@@ -264,7 +292,7 @@ Bird opened her mouth to greet them both, but Chinchilla turned back, gesticulat
 
 Chinchilla stopped mid rant as Bird sidled up to them. Chinchilla was tall, above average height, with broad shoulders and a mane of coarse black hair that contrasted sharply with pale skin and light blue eyes. She towered over Coral, hands buried in the hair at the back of her head, she pulled at it in frustration. Coral's hair was black as well, but straight and shiny. The sides of his head were shaved, and he wore it pulled into a neat half-bun on the top of his head. Coral seemed calm in comparison to Chinchilla, his voice always low, sharp features and small dark eyes giving a particular impression of focus. But Bird knew him well enough to sense that he was fuming.
 
-"Arguing about beasties on the station?" She guessed.
+"Arguing about beasties on the Station?" She guessed.
 
 "What else," sighed Coral. "Come on."
 
@@ -296,13 +324,13 @@ It wasn't strictly out of bounds to bring in people who weren't registered to pr
 
 "I can't take you into the growing rooms." They could see more light up ahead, spilling out of windows on either side of the passage. "Well I could but we'd have to get all suited up and it's not really worth the trouble. But you'll like this. Even Chinchilla likes this. We have a whole little museum in the break room."
 
-Coral talked Bird through a display of items in a series of transparent cabinets. The room where mycolab functionaries rested and made themselves hot drinks of instant _thurm_ was large by Station standards. It contained comfortable floor cushions, similar to those in the Education District, and was furnished in tones of soft pinks and browns. It felt earthy, Bird thought upon entering, without even realy knowing what that term meant.
+Coral talked Bird through a display of items in a series of transparent cabinets. The room where mycolab functionaries rested and made themselves hot drinks of instant _thurm_ was large by Station standards. It contained comfortable floor cushions, similar to those in the Education District, and was furnished in tones of soft pinks and browns. It felt earthy, Bird thought upon entering, without even really knowing what that term meant.
 
 The display ran along the longest curved wall, farthest from the door. Chinchilla made herself a drink and took a seat nearby, having seen all of the artefacts many times before.
 
 The oldest item was a piece of a preserved tree bark, complete with remains of the armillaria that had killed it; a hundred year old tree, consumed by a thousand year old fungus, about two thousand years ago, measured by planet time. Bird gawked. "How did they _get_ that!"
 
-The first fungal computer circuit was there, as well as an example of one of the earliest designs for adaptive self-repairing fabric. Apart from the ancient bark, everything on display was from the past five centuries, after the great cascade falure that had resulted in the planet being ultimately unable to sustain life had begin. Humans had lived down there, in degrees of chaos, for a full hundred years before managing to work out how to survive in the middle atmosphere, above the wreck of the planet and its churning skies. Much was lost during that time, and during the century following in the frantic scrabble to vacate the surface.
+The first fungal computer circuit was there, as well as an example of one of the earliest designs for adaptive self-repairing fabric. Apart from the ancient bark, everything on display was from the past five centuries, after the great cascade failure that had resulted in the planet being ultimately unable to sustain life had begun. Humans had lived down there, in degrees of chaos, for a full hundred years before managing to work out how to survive in the middle atmosphere, above the wreck of the planet and its churning skies. Much was lost during that time, and during the century following in the frantic scrabble to vacate the surface.
 
 As children they had done an exercise to imagine what living on a planet was like. To walk and walk and never reach the end. To live directly out in space, with no enclosure at all. To share a home with _billions_ of other humans and uncountable numbers of non-humans too. It seemed like it would be cramped and busy, compared to life on the Station.
 
@@ -318,7 +346,7 @@ Bird had always wondered what it would be like to feel the planet rotate underne
 
 "-more days every cycle in power reduction mode, and a shorter recycle rhythm for pretty much all nonessentials. _That_ is a preservationist nightmare if you ask me."
 
-"Depends what you're trying to preserve I suppose, doesn't it! We all know what this comes down to. You hav ea bunch of junk in your pod and you don't want to let it go."
+"Depends what you're trying to preserve I suppose, doesn't it! We all know what this comes down to. You have a bunch of junk in your pod and you don't want to let it go."
 
 "That's _not_ true."
 
@@ -326,7 +354,7 @@ Bird had always wondered what it would be like to feel the planet rotate underne
 
 "This is not the point. The beasties, they don't even know if they're really like animals that existed on the planet before. They don't even know! It's not preservation, it's total creation."
 
-"That's nonsense and you know it. There is so much historical and biological research - anyway, this _is_ the point. The point is that you're a hypocrite. Preservationism is such a huge and complexi thing and everyone brings their own perspective, their own contribution, and they're all imperfect, but they're not nothing, but you'll go off at anyone who isn't following exactly your prescribed model, doing just what you do. you treat it like a competition, but you get to pick and choose the rules, and objectively you're not even that good at it."
+"That's nonsense and you know it. There is so much historical and biological research - anyway, this _is_ the point. The point is that you're a hypocrite. Preservationism is such a huge and complex thing and everyone brings their own perspective, their own contribution, and they're all imperfect, but they're not nothing, but you'll go off at anyone who isn't following exactly your prescribed model, doing just what you do. You treat it like a competition, but you get to pick and choose the rules, and objectively you're not even that good at it."
 
 Coral was out of breath. Chinchilla swore quietly in a Pigin language, but didn't respond. She was indignant. Not used to being challenged so fiercely, she took a few minutes to re-collect herself.
 
@@ -550,13 +578,143 @@ Coral looked tempted for a moment, then shook his head. "I can't really. It's no
 
 With that, Coral left her alone in the break room.
 
+## ..an unexpected journey
+
+The forest surrounded them thickly on all sides. It was even warmer in here than out, and the air hung heavy, damp and musty. Mustard clutched Sushi's hand tightly, afraid of the darkness that would soon be upon them. But although the day had been waning when they stepped into the forest, the light inside, low as it was, didn't seem to be becoming any less as they walked.
+
+He stepped one cautious foot after another. Sushi was a beat ahead, and he let her lead. She seemed unafraid and determined in their course.
+
+The stems of the giant fruit - whatever they were - were packed tightly. They were thick and pale, with a slight furriness to them. They brushed lightly against Mustard's arm as he passed and he contracted himself to avoid touching them. But though there was barely any gap between them to the sides, they never had to force their way through them in the direction they crept.
+
+The stems disappeared directly into the earth, straight sides all the way down. And straight up too, far above the heads of Mustard and Sushi. One furtive glance upwards, and Mustard was sure he saw the tops simply stop, the sharpness of the white ending abruptly in darkness. But the forest floor was certainly not open to the sky. A canopy arched over them, the stems were holding up great drooping domes, packed together at different heights.
+
+Mustard's feet sunk slightly into the ground with every step, sucking a little each time he lifted them. He was acutely consciosu of each slurping step, the only sound in the all embracing stillness. To move felt wrong. He wanted to stop, to remain still, relax his arms by his sides and let the ground seal his feet and stay there supported gently on all sides by the looming growths.
+
+Sushi, apparently, had no such urges.
+
+The air, which had smelt only musty at first, now had a sweet tang to it. He found himself breathing it deeply, becoming slightly dizzy as he overfilled his lungs.
+
+Mustard paused, needing rest. Sushi jerked to a halt a step ahead when his hand in hers kept her back. She turned, eyes wide in the not-quite-darkness. Mustard admired for a moment how perfectly her pale skin and hair matched the stems surrounding them. A beacon against the unknown.
+
+"Come," she breathed, her voice muted by their surroundings. "We can't stop."
+
+Mustard turned his head to look back the way they had come, expecting to see a narrow passageway. There was none. THe stems had closed up behind, sealing them in.
+
+His breaths came suddenly faster.
+
+"Come," Sushi urged more forcefully, tugging at his hand.
+
+He lifted his left foot to find it far heavier than before. He must have started to sink. But looking down he realised he had not descended into the mud, but that the mud was slowly climbing up around his socks, almost to his ankles.
+
+He made a small noise of distress, and jerked his feet away from the ground, left then right. His body set to shaking.
+
+"We can't stop," Sushi whispered again, and this time he followed closely, all thoughts of staying behind vanquished entirely.
+
+They walked like this for hours. Days? The stems opened silently before them and closed behind them and Mustard had no idea if they were responding to the direction Sushi pressed forward in, or if the forest was creating their path and Sushi was following it. He was afraid to know.
+
+* * *
+
+At some point, the ground began to slope slightly downwards. Gradually Mustard noticed the stems surrounding them were thinning out and becoming narrower as well. Soon he was able to look up and see fragments of the sky, between the caps atop the towering stems. The sky was clouded, as ever, and darkening with the approach of evening.The heady scent of the forest was receding and, though exhausted from a day of walking, Mustard found himself able to think a little more clearly.
+
+The strange white fruits became so far apart now that it was simple to walk among them without any inscrutable intervention to make their path, and some of the stems were as narrow only as Mustard's arms.
+
+He felt hungry.
+
+"Where do we stop?" He asked Sushi, who had not slowed her pace.
+
+"Stop?" She repeated, furrowing her brow as though the word was unfamiliar. She slowed, and finally halted.
+
+They were well out of the forest now. The ground was still dank and muddy but somewhat firmer and drier underfoot. The sky overhead was blurring cloudy forms rapidly into a monotonous grey, darker and darker. Mustard looked back over his shoulder, but could see only the fringe of the forest at the crest of the hill, and that was disappearing swiftly in the gloom.
+
+Sushi, still tightly squeezing his hand, pointed with her other. He followed the line of her short, delicate finger and made out some kind of rock formation in the distance.
+
+His feet and legs were aching, Mustard realised all at once, and to march another step on an empty stomach seemed preposterous. But Sushi simply turned and began again. Stifling a sob, and feeling shame for it, Mustard followed.
+
+It wasn't long before they reached the protrusion. It was a cluster of rocks forming the mouth of what Mustard realised was a cave only when Sushi let go of his hand and dropped down to crawl inside.
+
+She was quickly invisible in the blackness. Horrified, Mustard had no choice but to follow.
+
+The mud turned quickly to gravel, which turned quickly to solid stone under his bare hands. He could hear Sushi shuffling just ahead, but the darkness surrounding them was absolute. Something icy cold dripped from above and ran down his neck, and Mustard unwittingly let out a squeal.
+
+Sushi hissed, "quiet!"
+
+The sound of her voice he felt he hadn't heard in an age, and as unamiable as her tone was, the sound heartened him. He quickened his pace to keep up, then a few moments later ran squarely into the back of her.
+
+Mustard lay his hand on his sister's shoulder and sensed that she was feeling the rocky wall in front of them. He felt it too: slick and cold. Every cell in his body protested these circumstances, raging with terror at the darkness, the closeness; screaming soreness of his hands and knees and joints; howling and stabbing in his abdomen and bladder. But he knew, he _knew_, that Sushi would not lead him wrong, and would not let him suffer for long, and so he pushed it all aside and focussed on her presence.
+
+Sushi found what she was looking for: an opening in the cave wall. It was narrow, Mustard groped at the sides with elbows bent, but as they passed through he felt - no! He saw! At last a wide open space.
+
+Their squirming through the cramped blackness had felt an eternity, and though this cavern was clearly grotesque and slimy, it was at least a place he could stand upright, and see its far distant sides, and he was glad of it.
+
+Mustard thought, for a moment, that his imagination had finally taken over in revolt against the dark. As his eyes adjusted he realised the walls of this hollow were patchily covered with some kind of phosphorescent mould. The stuff glowed softly, not enough to cast shadows, but enough that Mustard could make some kind of sense from his surroundings in the eerie blue-green light.
+
+"We can sleep now," said Sushi.
+
+Whatever had been driving her to reach here suddenly appeared to dissipate and she collapsed down by his side. Mustard reached for her, panicked that she had fallen unconscious again. But she breathed softly and gently and curled against him as if she was a baby once more.
+
+_She must be more exhausted than me,_ Mustard realised.
+
+Summoning his final reserves, he slid his pack from his shoulders and as gently as possible wriggled backwards so he could back against a wall with Sushi's head still in his lap. He pulled out the blanket and wrapped it over them both. He found a hard _choo_ and popped it into his mouth, sucking and then chewing as it softened. It wasn't much, but it took the edge off his hunger so that he could finally drift away and let his body and mind recuperate.
+
+* * *
+
+Mustard didn't know how long he slept for.
+
+He aoke stiff, spreadeagled on the cave floor, his cheek pressed down and impressed with minuscule stones. He groaned.
+
+The green light was gone, and the gaping space was now lit by ordinary daylight. Mustard blinked and rubbed his eyes. The patches on the walls that had glowed - or had he dreamt that? - were dark now, almost mistakeable for wet patches on the rocks.
+
+The blanket was folded neatly by the wall, and his pack placed on top. Sushi was nowhere to be seen.
+
+Mustard looked skyward. It seemed as though he was in the base of an enormous rock chimney, widest at its base and narrowing as it curved gently upwards. It's walls were rough, cracked and jutting, but would be hard to climb because of the angle at which they sloped inwards.
+
+In the very center was an opening. Familiar grey clouds were visible, and the brightest of the daytime glow seemed to be almost overhead.
+
+Mustard scanned the edges of the cavern, which formed more or less a perfect circle. He spied the opening through which they had come, recognising its harshly angled shape. He saw other openings too, black maws, some cracks to small to fit through, and others as big as doorways though jagged and uneven.
+
 ## …
 
-In which Mustard and Sushi have some giant fungal adventures
+## The eclipse
+
+In which Bird watches the eclipse with Gull and also tries a special drink. Meets Gull's brother etc. The drink helps Bird momentarily connect with the Station via its (currently unsuspected) mycelial additions…
 
 ## …
 
-In which we find out that Nubo is listening / pervaded by mycelia, and about the project connecting the station to the planet
+## …
+
+(Todo: In which we find out that Nubo is listening / pervaded by mycelia)
+
+The Nubo III project had been ongoing for as much of Bird's lifetime as she could remember. When the Turing Loop was at the right point in its spin, somehow the construction could be seen through one of the skylights in a Residential District corridor. It didn't look much like a copy of Nubo Station yet, although from what Bird gathered the designs were different anyway. It was set to be bigger, a little higher in the atmosphere, with a much larger Dome and more spacious living areas. Bird had given little thought to moving there when it was completed, though she could put forward a nomination for herself like everyone else when the time came. The main attraction as far as she was concerned was that the designs alluded to the use of far more transparent materials. That meant far more opportunities for viewing the outside world.
+
+Nubo III - or Station Per La Suno as it was to be properly called upon its completion - was set to be two and a half times the size of Nubo Station in terms of the size of population it could support. Every single occupant of all five Loops on Nubo Station could reolcate, and still have room to spare (and air to breathe).
+
+But when the Nubo III attitude survey came around, as it did every couple of cycles, Bird had indicated that she preferred to stay put. Unlike many, the idea of a fresh start did not draw her.
+
+It wasn't like it would be impossible to visit. The plans included synchronisation of the two station orbits, and an enormous extensible bridge that could reach across the great void between them - essentially a chute on a massive scale - to transfer people and things back and forth. When the bridge couldn't be used because atmospheric conditions were poor or the stations were out of alignment, there would be shuttles, for emergencies.
+
+There had been shuttles in the beginning, so Bird had been taught, but these days the idea of a flying craft was really a novelty. Nubo Station was an entirely self-contained system where, thanks primarily to the innovations of the mycolabs, pretty much any substance could be transformed, eventually, into any other. There was no need to leave the Station, except to work on Per La Suno.
+
+That's why when Chinchilla had told Bird, discreetly, about her current assignment, at first BIrd had laughed.
+
+Since leaving the mycolabs, Chinchilla had been working as a security advisor for computing systems stationwide. She was good at it. She knew where to look for potential breaches whenever new services or software updates were introduced. She knew how to explain the problems and recommend solutions in ways which didn't impinge upon the egos of other engineers. And she knew how to demonstrate their shortcomings if they chose not to take her advice.
+
+So when she had a tip off about an ongoing Cap'ista plot to divert a variety of industrial equipment and materials from the Nubo III project to use for their own ends, it didn't take her long to follow all the trails and name specific names.
+
+"That part was simple," she groaned to Bird. "The Cap'istas are morons. I should have just stopped there. But I couldn't shake the feeling there was something else going on. Something... worse. So I kept poking around.
+
+"They had been getting away with skimming bits and pieces for ages. Most of this cycle. You know most of them don't take a Station function right? Just do 'jobs' for each other, like favours, but then with this Fonu thing called 'cred'... Anyway it turns out a few of them _do_ have functions, so they're packing things for transport over to Nubo III and 'losing' things, or altering manifests, or requesting replacement or whatever. They're clumsy, they all leave such a trail, the only reason no-one caught them is because everyone in the packing docks is asleep and nobody thought to actually read the messages that were coming back from the construction site, or the internal alerts about tampering detected for that matter. But that's not the point, they got caught because some idiot was high and bragged to the wrong other idiot that they were going to steal a shuttle next. What were they going to do with a shuttle? Fly it to the _space ship_ they are apparently building to get away from this place and make their own home among the stars."
+
+This was where Bird had laughed, like it had been the punchline to a particularly rambling joke.
+
+"It doesn't add up. That's what the tipoff was - there was an attempted but failed break-in to the Nubo III shuttle bay a couple of nights ago, maybe you heard - and idiot number two reported idiot number one. And it all landed on my desk as a kind of if you're bored take ten minutes to see what else they might have been up to kind of thing."
+
+"But wait, they are _really_ trying to build a space ship? The Cap'istas?"
+
+"Well, that's the thing. I'm not a rocket scientist, but the parts they had been stealing? They didn't say space ship to me. Maybe they're just appalling at planning, or have a very different idea about how to get out there, but I had a pretty complete picture of everything they've taken so far, and it just didn't smell right."
+
+Chinchilla paused. Bird waited, sensing she was on the verge of saying what she really wanted to say.
+
+"Bird, the stuff they were taking added up to _terraforming_."
 
 ## …
 
