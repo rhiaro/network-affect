@@ -274,6 +274,10 @@ They were bewildered as they untied their trolley and made haste back to the Hou
 
 Sushi was unconscious.
 
+TODO: everyone is missing
+
+TODO: sushi wakes up but has lost her memory
+
 ## The Mycolabs
 
 "Sure, you're a preservationist when it suits you!" An angry voice rang down the corridor, reverberating off stark metal wall panels. "But as soon as it's a little bit inconvenient for you personally, different rules apply! Exceptions can be made!"
@@ -464,7 +468,59 @@ Bird pressed her palm on the smooth panelling of her pod door to trigger the ope
 
 ## Journey south
 
-In which Mustard and Sushi board a train
+TODO: walk back along the tracks
+
+TODO: get on a train
+
+The train speed dropped all of a sudden, and it rumbled to an abrupt halt. A high pitched hiss signalled the opening of the doors.
+
+"Are we there? Somewhere?" Said Mustard.
+
+Sushi was pressing her face against a window. "I can't see much," she replied. "It's almost night. But I don't think we're at a station."
+
+Mustard slid out of his seat and crept tentatively towards the door of the carriage. It took Mustard a while to realise the train engine had stopped because the volume of his heartbeat filled the silence left behind. He craned his neck out of the doors and looked quickly in both directions a couple of times.
+
+"Confirmed," he called back to Sushi. "Definitely not a platform. Not much of anything I can see."
+
+Sushi had followed him a little way and was standing in the aisle. "Should we get out?" She asked uncertainly.
+
+Mustard looked back at the rapidly encroaching darkness, and then to Sushi in the dim warm light of the train carriage.
+
+"I don't think so. Maybe it's just taking a break. If we get out it might leave without us."
+
+"Maybe it doesn't want us inside any more," she said in a very small voice indeed. She joined him at the door and Mustard took her tiny hand in his.
+
+"How about we decide in the morning," he suggested. "Let's have a sleep. When it's light we can see which the best direction to go is if we're still here. And it gives the train plenty of time to rest and carry on again if that's what it's doing."
+
+Sushi nodded.
+
+They curled up beside each other on fuzzy cushioned seats, and fell asleep quickly.
+
+* * *
+
+The sound that woke Mustard was, he thought at first, the engine starting back up. He kept his eyes closed as a wave of relief washed over him. But the low hum increased in pitch and turned into an angry chittering sound. He sat bolt upright as he felt weird vibrations all around. Out of the window, the landscape was covered in pinpricks of bright light, in angry reds and oranges. He grasped for Sushi but she seemed to be peacefully still asleep on the seat beside him. Mustard's heart was in his mouth as he realised the lights were all moving closer, at speed, and the rattling sound was getting louder too. He wanted to shake Sushi awake, but found he couldn't move at all.
+
+Fixated, he could only watch as a hoard of scuttling creatures advanced towards the train. He jumped as one appeared suddenly with a clatter on the outside of the window right by his face. Illuminated only by the scarlet lamp which appeared to hang in front of its body on a nobbled, spindly appendage, Mustard could make out six unevenly jointed legs, which sprung from a segmented body that was at least the length of Mustard's whole arm. It didn't appear to have a head or face of any kind, other than that hypnotic glowing orb.
+
+Another creature landed beside it, and Mustard jumped again. Then a third, and a fourth, and they were swarming up the side of the carriage.
+
+Too late, Mustard realised the doors were still open. They were scurrying up the aisle, clambering over seats, and had no trouble sticking to the walls and windows on the inside, and even upside down along the ceiling.
+
+Mustard snapped out of his reverie and shook and shook Sushi but she wouldn't wake. The swarm reached Mustard's feet, he felt their pointy legs jabbing at his shins as he pulled them up out of the way, too late. The creatures surrounded him from below and above. Mustard saw in horror that they had already covered Sushi's body in such creepy numbers that she could no longer be seen.
+
+He opened his mouth to scream. Instead of a sound, a red orb burst forth from between his lips.
+
+* * *
+
+When Mustard awoke, a heavy cloud had come down, enveloping the land all around. The view in every direction was of strange silhouettes, rows and rows of them, the nearest dark, with those beyond becoming increasingly ghostly until they disappeared into mist. Mustard shivered, though it was as humid as ever. But something about this cloud chilled him. None of the gnarled and twisted spectral shapes were close enough to see what they were, but they were oddly familiar to Mustard. He couldn't focus enough to try to place them though. There was an uncanny ringing in his ears and the pressure at his temples and under his eyes made it impossible to keep track of a single train of thought for very long.
+
+Sushi rolled over and sat up beside him.
+
+"Oh," she said sleepily. "The train ddin't want us after all. Did you dream about the crawling things again? One of many?"
+
+Mustard blinked. They were, it was true, seated on the dusty ground beside the railway tracks, and the train was nowhere to be seen.
+
+"That... Dream? What happened last night?"
 
 ## Remembering junction 48
 
@@ -676,11 +732,61 @@ Mustard scanned the edges of the cavern, which formed more or less a perfect cir
 
 ## The eclipse
 
-In which Bird watches the eclipse with Gull and also tries a special drink. Meets Gull's brother etc. The drink helps Bird momentarily connect with the Station via its (currently unsuspected) mycelial additions…
+'Cake' was much busier than it had been on Bird's previous visit. There were none the garbed in white Zhomic robes, as she had feared there might be. So this wasn't some Zhomic ritual she had inadvertently found herself a part of. Although the was a large group in one corner of bald-headed Celestials. The were many on Nubo for whom the stars and wider universe held a particular fascination, but Celestials made it a fundamental part of their identity. In times past - before Bird had been born - early Celestials had almost taken humanity into space to find another planet, instead of stopping in the middle atmosphere. These days their ideas didn't have so much traction; peoples' attachment to the planet was strong. Modern Celestials would study astrophysics and theoretical exobiology and meet together to pour over star charts or create art and music that invoked the majesty of the cosmos. Bird was a fan of that, when she came across it. She didn't know why they shaved their heads and faces, or had a penchant for wearing large, unwieldy pieces of reflective jewellery.
+
+There were more of them gathered here than Bird had ever seen in one place before. They were dressed ordinarily, if formally, but they glittered and shimmered en masse.
+
+Gull was seated at a table by the window that looked out over beyond. They were hemmed in by groups of strangers milling about with drinks and snacks, but between them and a young man, startlingly similar in features to Gull, Bird could see an extra seat being held.
+
+The place had a festive air. Bird squeezed through the crowd and waved to Gull, who eagerly moved bags aside to make room.
+
+"I'm so glad you made it!" Gull beamed. "This is my brother Dolphin. Dolphin, this is Bird."
+
+He smiled shyly and looked down and to the side, making no move to take her hand. From the way Gull had spoken of him before, Bird had expected to meet a child, but seated before her was certainly an adult. He did not, however, have a Fonu display on his wrist.
+
+"Dolph," Gull's voice was coaxing. "Why don't you tell Bird what we're going to see tonight?"
+
+He brightened up at once. "A total solar eclipse!" He said without hesitation. "They only happen once every three hundred and sixty to four hundred and ten planet years, but because of Nubo Station's orbit one has never been visible from here before. This is the first ever! That's when the moon passes between the planet and the sun so the sun is blacked out, in perfect alignment. The Celestials think that on this day humans who left the planet five hundred years ago will retuning in big ships to invite us to go with them to a new home. The Nubo power engineers think this is all a pain in the butt because their solar panels will get all out of whack."
+
+"Dolph!" Gull scolded, but he just giggled mischievously.
+
+"And the Zhomics think that it's nothing much but an excuse for a party and an excuse to drink sib tea."
+
+Gull's light brown cheeks darkened with a blush.
+
+"I'm sorry about Dolphin, one moment he won't say a word and the next he won't stop. He knows a lot about space though."
+
+Bird smiled, enjoying Dolphin's energy. He had a light in him quite unlike anyone she had ever met before.
+
+"Dolph, I don't know anything about space at all!" Said Bird. "Tell me everything you know!"
+
+Dolphin and Gull's eyes both widened, but for different reasons. But before Dolph could launch into a recital of his encyclopaedic knowledge of the universe - which he would have, Gull told Bird later - they were interrupted by the gentle tinkling of a bell. The coversation around them dimmed to a murmur, and then ceased.
+
+A tall and incredibly beautiful Celestial rose to her feet before them. She had luminous black skin, and from her ears hung huge golden plates which paid homage to the sun itself. Her sleek gown was dark but when she moved it shimmered subtly with the blues, purples and greens of a nebula.
+
+"Welcome friends," her voice was deep and resonant as she looked slowly around at the gathering. "Welcome family." She seemed to be making an effort to make eye contact with every face in the room. "You are all here because you have been drawn to witness something entirely unique in the history of our community here on Nubo."
+
+She paused, her eyes settling briefly on Bird before moving on. Bird felt for a fleeting moment that her very essence had been laid bare. Her heart pounded with anticipation she simply had not felt in the moments before.
+
+"Not all are called thus," the woman continued. "Most of our community are living their normal day, as we sit here. Deep in the belly of the Station, with no window to look out from. With no notion of what is about to take place. But we are here, together, to accept this gift from the infinite universe, this incredible cosmic event. Many of us will come away changed on this day. Many of us will go into the future knowing that we have been part of an historic moment."
+
+Bird felt enraptured, and sensed Dolphin and Gull on either side of her were similarly caught up.
+
+"The event takes place in one eighth growth from now. So please, relax and enjoy yourselves until then. You will not miss it, I can promise you that. We have refreshments generously prepared by our hosts at 'Cake', and sib tea of various strengths offered by our dear Zhomic neighbours. Avail yourselves."
+
+There was no applause, but Bird was released from the spell as the Celestial rejoined her companions off to the side. The hum of conversation filled the air once more.
+
+Bird turned back to Dolphin, expecting him to resume his discourse, but he was looking intensely at Gull.
+
+"Okay," they said softly, placing a hand on Dlophin's shoulder and rising away from the seat. To Bird, they said: "be right back."
+
+Dolph stared out of the window, down to the planet below, and Bird followed his gaze. The angle of the Loop meant that the planet was only just visible, if she craned downwards. Most of the view was dominated by sheer, empty sky. Cloud obscured the surface, but it was stiller and smoother than the last time she had been here. The sun, high and pale, reflected off it to give it an almost luminescent shine. The sky was a luxurious deep blue, with rich orange airglow towards the horizon, and darkening into inky black away from the planet's surface.
+
+Gull wore an old-fashioned style of shirt, buttoned in a straight line up to their neck and with long sleeves buttoned at the wrists. It was in a shade of grey to match the clouds. But as they walked away towards a corner of 'Cake' where drinks were being served, Bird saw that the back of the garment hung open, revealing Gull's back which was tattooed all over with intricate branching patterns.
 
 ## …
 
-## …
+## A bright cold day in April
 
 (Todo: In which we find out that Nubo is listening / pervaded by mycelia)
 
