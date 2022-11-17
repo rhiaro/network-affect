@@ -18,7 +18,7 @@ Whilst Sushi sketched, Mustard would speak to her of his dreams. Most nights the
 
 "I dreamt of crawling things," he told her on this morning. "We were the crawling things. We were ones among many, more than the people in Sco, more than the fingers on the hands of all the people in Sco, more than that even." He paused to see if she understood. Sushi never replied while she was drawing, but if Mustard mentioned something that didn't align with her experience her brows would wrinkle a little, her tiny nose would scrunch up.
 
-Sushi was some years younger than Mustard, but he was very sure she was much smarter, as smart as an adult even. He sometimes struggled to find the words for the complicated things he experienced in dreams, but Sushi always understood, and knew the right words to explain it back to him perfectly.
+Sushi was some years younger than Mustard, but he was very sure she was much smarter, as smart as an adult even. He sometimes struggled to find the words for the complicated things he experienced in dreams, but Sushi always understood, and knew the right words to explain it back to him perfectly. He even suspected sometimes that she was always connected to the Knowing, maybe without realising it herself. He could Know things that way himself, but it exhausted him and he usually had to sleep for half a day afterwards.
 
 Mustard could remember when she was born, just about. Everyone had been surprised to see a baby with such pale, almost transparent, skin and pink eyes coming out of such a dark featured mother. Mustard was darker still, so that if Sushi teased him by drawing on his arms with charcoal the patterns were almost invisble. But as they aged together, the similarities in their features became more apparent. They shared disproportionately large ears, dainty noses, and deceptively serious eyes. Their hair fell in the same way, straight, but wispy and unkempt, around their shoulders; only Mustard's was jet black, and Sushi's was pure white.
 
@@ -274,7 +274,53 @@ They were bewildered as they untied their trolley and made haste back to the Hou
 
 Sushi was unconscious.
 
-TODO: everyone is missing
+* * *
+
+Frantically, he tried to scoop her up into his arms, but though she was small he wasn't big enough to lift her. He lay her back down and put his weight behind the trolley, shoving it towards the Third House, where the elders gathered to rest. There were always at least a couple of people there.
+
+The wheels stumbled and stuck, jamming themselves into positions only possible when Mustard was in a hurry. Small rocks appeared dot wedge themselves in the mechanism out of nowhere from a perfectly smooth black surface.
+
+Tears in his eyes, he made it to the Third House and rammed the trolley through the huge swinging doors.
+
+"Somebody, hel-"
+
+His voice bounced around an empty room. Great squishy bags stuffed with the thick, furry balls that drifted into Sco in the mid-an, fromed a circle in the room where the elders normally sat to debate or meditate. It was empty.
+
+Mustard squeaked, reversed, and powered towards the Eating House instead. Between meal times, hungry children lurked, trying their luck with those who prepared the food.
+
+Again, deserted.
+
+Perhaps his senses were decieving him. Perhaps he and Sushi had shifted onto another plain to everyone else. He had heard many stories of such things. Usually with reference to times long past and people far distant.
+
+His next idea was to seek Kombu who, besides meal times, was ever-present below the rafters of the Great House. He left Sushi in the trolley at the base of the pull shaft and launched himself upward as fast as his arms could haul, crying Kombu's name all the way.
+
+When he found the mezzanine empty as well he finally accepted that everyone in Sco really had vanished.
+
+He scrambled next to the rooftop and surveyed the landscape of the Houses of Sco from the highest point. There was no movement. No voices drifted upwards. Okay. He had to revive Sushi, and do it by himself.
+
+He paused to gather himself. He reached for the parts of his mind he left at the Sco station, at the Third House and the Eating House, and down in the trolley with his sister-friend. He drew it all together and focussed pointedly on a lesson from a few seasons ago about medicines and healing. He reached back in time, and received the lesson again all at once.
+
+From there he reached further, into the Knowing. Experiences and ideas of unknowable numbers of minds clamoured for his attention. Normally it took him so long to find what he wanted, and more often than not it left him more confused than when he'd begun. But desperation created a laser focus and what he wanted to Know came to him immediately.
+
+Mustard descended the shaft and pushed Sushi towards the Fixing House. He ran with the trolley for just long enough to run out of breath by the time he arrived. He wasn't surprised this time to find the building empty.
+
+As carefully as he could, Mustard tipped the trolley over and rolled Sushi out onto a mat. he ran to the stores and pulled out jars and bottles and boxes until he found the one he was looking for. An extract from a pale growth that appeared seasonally on the wall of one of the smaller store buildings on the very northernmost edge of Sco.
+
+He gently opened both of Sushi's eyes in turn and administered three drops in each. He stepped back and took a deep breath. The extract would take some time to work. He had to be patient. But what if it didn't?
+
+He returned to the stores and found a jar of paste. This was a pale orange and he knew from experience that it had a bitter, slightly spicy taste. He smeared a globule under Sushi's tongue. If the extract failed to wake her, this would work to drive out anything from her body that didn't belong, that might be keeping her unnaturally asleep.
+
+While he waited, he paced. Clearly something was wrong in the world. They were always taught, and indeed felt instinctively, that they were connected to each other and everything around them. The appearance of wind, or a change in temperature, quite clearly affected the moods of the denizens of Sco, or the condition of the growth vats, or the taste of the water.
+
+So certainly the disappearance of everyone in Sco was part of something more. Perhaps only a symptom of something else. And yet, it could also be the cause of things to come. Maybe both.
+
+Mustard looked over Sushi. Her eyelids were flickering and her head and shoulders twitched. Sometimes, she took small gasping breaths.
+
+He left the Fixing House and walked briskly between buildings until he reached the World House. He was not normally permitted to enter here, but had been given an adult-supervised tour once, and snuck in at nighttime repeatedly. There was no-one there to stop him as he pushed the door, which was small compared to those of most Houses in Sco.
+
+The far wall was dominated by a living map of the world. Some part of him suspected - and Sushi, he thought, was sure - that this was not representative of the _whole_ world. But it was more than enough for most people to get their heads around and thinking too hard about the possibility of it being bigger made Mustard dizzy.
+
+Most prominently on the map were the railway lines.
 
 TODO: sushi wakes up but has lost her memory
 
@@ -520,7 +566,37 @@ Sushi rolled over and sat up beside him.
 
 Mustard blinked. They were, it was true, seated on the dusty ground beside the railway tracks, and the train was nowhere to be seen.
 
-"That... Dream? What happened last night?"
+"That... Dream? What happened last night?" And then, "you remember the crawling things dream? From before? Do you remember everything now?"
+
+Sushi's face screwed up in a frown. "I don't remember... I just... It was familiar."
+
+"The crawling things," said Mustard. "I think I know what they are."
+
+It surely hadn't simply been a dream. He could still feel the prickling of their feet as they jabbed their way up his legs and over his body. But what had happened after that? The details were starting to dissipate. There was no trace on the ground around them that it had been disturbed by an enormous swarm the night before. No jagged bumps from thousands of pointy footprints, though with no breeze the heavy dust should surely have shown something.
+
+"Did you... sleep well?" Mustard asked weakly.
+
+Sushi nodded, "I feel rested. Do you have some food?"
+
+Fortunately whatever means by which they had been evicted from the train, Mustard's back had made it too. They rooted around until they found _stax_, hard, thick biscuits made from the powdered remains of Unknown foods from the Sco stores, mixed with _nutri_ into a paste and then dried into tablet on hot plates. They ate their fill in silence.
+
+Mustard started to think about returning to the Houses of Sco. They couldn't have come too far in just a day on the train. Surely walking back was a possibility, and they had the railway tracks to guide them.
+
+"We shouldn't follow the tracks," said Sushi suddenly.
+
+"What?" Mustard jumped, like she had been in his thoughts.
+
+"If the train left us here, it's because to continue in that direction will not take us to where we need to go."
+
+She sounded so sure.
+
+"Where do we need to go?"
+
+Sushi pointed in a direction perpendicular to the tracks, towards the writhing distant shapes which seemed to emerge and dissolve again as the mist shifted around them.
+
+Of course. These were the distant mounds that Sushi sketched every morning. It made sense, to Mustard, that memory or no, she would be drawn to them. A fleeting recollection of the crawling things with glowing orbs left a foreboding, queasy feeling behind in Mustard's stomach for a moment, but he dismissed it. Sushi's eyes were bright, her body trembling with energy as she sprang to her feet, and Mustard's head still ached as if the invisible hand of a giant had it tight in its grip. He didn't want to make a decision. And he certainly didn't want to stay where they were.
+
+He stood up, shouldered his pack, and stumbled after Sushi.
 
 ## Remembering junction 48
 
@@ -716,7 +792,7 @@ Summoning his final reserves, he slid his pack from his shoulders and as gently 
 
 Mustard didn't know how long he slept for.
 
-He aoke stiff, spreadeagled on the cave floor, his cheek pressed down and impressed with minuscule stones. He groaned.
+He awoke stiff, spreadeagled on the cave floor, his cheek pressed down and impressed with minuscule stones. He groaned.
 
 The green light was gone, and the gaping space was now lit by ordinary daylight. Mustard blinked and rubbed his eyes. The patches on the walls that had glowed - or had he dreamt that? - were dark now, almost mistakeable for wet patches on the rocks.
 
