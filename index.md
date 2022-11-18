@@ -320,9 +320,67 @@ He left the Fixing House and walked briskly between buildings until he reached t
 
 The far wall was dominated by a living map of the world. Some part of him suspected - and Sushi, he thought, was sure - that this was not representative of the _whole_ world. But it was more than enough for most people to get their heads around and thinking too hard about the possibility of it being bigger made Mustard dizzy.
 
-Most prominently on the map were the railway lines.
+Most prominently on the map were the railway lines. They were also the most static part, rarely, if ever, changing. Lumpy nodules about the size of Mustard's fist denoted the stations, and the various settlements of Houses, and the rest of the lines emanated from these points. The railways ran thick and smooth, made up of multiple threads of the substance that sketched out the map. Other trails of varying thicknesses and with slight variations in colour wandered outwards, some in completely meandering lines with branches and forks, and others in straight lines or sometimes with sharp angles. The thinner lines changed; sometimes gradually, sometimes overnight. Peering closely, one could almost see the miniscule filaments that composed them moving, growing, reshaping themselves
 
-TODO: sushi wakes up but has lost her memory
+Mustard followed the line that led from Sco station. It shifted subtly, as if it was breathing. The line followed a gentle curve horizontally across about half the width of the map before it reached the pulsating cluster that denoted the station closed to Itor Itol, the Houses from which they had expected Lemonade to return.
+
+The train that had not stopped could be seen on the map too, still moving, approaching a fork in the tracks near the edge of the map. The trains were represented by a bulge in the threads that made up the tracks, moving along at a consistent speed. They were sometimes hard to see, disappearing at times and then reappearing further on. They were useful as a guide, Mustard had been taught, but not reliable for telling an accurate time. The only source for that was to listen or look out for the trains themselves.
+
+There was not a train due to pass Sco in the direction of Itor Itol for some time. He considered his options.
+
+There was an intermediary station between Sco and Itor Itol that Mustard knew as Do As Er. It was alone in an empty landscape, not associated with any settlement. But on the map, Mustard remembered seeing trains pause there. There was a junction after Sco that trains from the north used to join the line towards Itor Itol, passing first through Do As Er but without passing Sco. Mustard had seen these northern trains pass distantly by many times from the rooftop. Their approach signalled that it would soon be time to eat again.
+
+He followed one now on the map, convincing himself that when Sushi awoke they would be able to walk along the tracks in time to meet this train at Do As Er.
+
+Mustard had never ridden on a train before.
+
+Despite his general feelings of fear and bewilderment at the situation, a little excitement at the prospect was creeping in. _Beyond_ had never really seemed like a place until this moment. It had been a backdrop, a picture to be sketched in charcoal, an unknowable concept. But suddenly and jarringly it was _real_ and he _needed_ to go there. That was where the answers lay.
+
+A small sound behind him made him turn.
+
+Sushi stood in the doorway, a silhouette framed by the low light from outside. Mustard rushed over.
+
+"Are you fixed?"
+
+Sushi frowned up at him thoughtfully.
+
+"I  know you," she said. It was half a question.
+
+Mustard knelt beside her so that he was looking up into her eyes.
+
+"Of course you do. How do you feel?"
+
+"I think I'm lost." She said it in a matter of fact way; she did not seem upset.
+
+Mustard was, however.
+
+"Sushi, what's wrong? You're not lost, you're home. I'm your brother-friend. You fainted when we got back but I don't know why. And nobody else is here!"
+
+"Brother-friend," she said, still thoughtful. "Okay. I trust you. Do you have a name? Sushi?"
+
+"You're Sushi," Mustard was gripping her hands tightly. "I'm Mustard. Don't you know? What's wrong?"
+
+He had heard stories of this happening too. Of people who looked for too long into the Knowing and left more behind than they took out. But Sushi hadn't been in the Knowing. He would have felt her when he reached in himself.
+
+"Maybe you just need more time to recover," he said, more to himself than to Sushi. "Does your body feel okay? Your head, your legs?"
+
+Sushi paused. "Yes. Everything feels like it works."
+
+"Everyone is missing," said Mustard hurriedly. "So I think we need to go and look for them. To find out what is wrong."
+
+Sushi nodded as if this was the most logical thing she had heard. She looked up at the map. "Where do we go?"
+
+"Itor Itol is where Lemonade would be if she missed the train. I think that's the best place to start." Mustard explained his plan for connecting with a train at Do As Er. Sushi nodded along, sagely.
+
+"We should take some food," she prompted.
+
+"Of course. You're thinking of important things. I think you're getting better already."
+
+They loaded a backpack from stores in the Great House and in the Eating House. Mustard tried to think like a grown-up and take things that would last a long time and be filling, which were not always the most tasty things.
+
+Sushi confirmed his choices, which naturally reassured him.
+
+They set off along the railway tracks, in the direction of Do As Er.
 
 ## The Mycolabs
 
@@ -804,7 +862,7 @@ In the very center was an opening. Familiar grey clouds were visible, and the br
 
 Mustard scanned the edges of the cavern, which formed more or less a perfect circle. He spied the opening through which they had come, recognising its harshly angled shape. He saw other openings too, black maws, some cracks to small to fit through, and others as big as doorways though jagged and uneven.
 
-## …
+TODO
 
 ## The eclipse
 
@@ -859,6 +917,60 @@ Bird turned back to Dolphin, expecting him to resume his discourse, but he was l
 Dolph stared out of the window, down to the planet below, and Bird followed his gaze. The angle of the Loop meant that the planet was only just visible, if she craned downwards. Most of the view was dominated by sheer, empty sky. Cloud obscured the surface, but it was stiller and smoother than the last time she had been here. The sun, high and pale, reflected off it to give it an almost luminescent shine. The sky was a luxurious deep blue, with rich orange airglow towards the horizon, and darkening into inky black away from the planet's surface.
 
 Gull wore an old-fashioned style of shirt, buttoned in a straight line up to their neck and with long sleeves buttoned at the wrists. It was in a shade of grey to match the clouds. But as they walked away towards a corner of 'Cake' where drinks were being served, Bird saw that the back of the garment hung open, revealing Gull's back which was tattooed all over with intricate branching patterns.
+
+Gull returned with three drinks balanced on a small tray. They handed one at once to Dolphin, who drank half of it in one gulp before Gull had even sat down.
+
+"Have you tried sib tea before?" GUll asked, offering a cup to Bird. Bird shook her head. "I thought maybe you wouldn't have so I got you a weak one. It's the same more or less as what's in _thurm_ or _kava_, but processed differently so it has a more pronounced effect."
+
+Bird took the cup, but did not drink.
+
+"Do you... drink this a lot?"
+
+Zhomics weren't the only people who drank sib tea on Nubo by any means, but that was where Bird's strongest associations lay. After consuing it, people typically reported colourful visions, and illuminating realisations. Bird had never been drawn to it, though she knew that two of her parents certainly had consumed it occasionally when she had been growing up, and it was well known that there were no long term or adverse effects.
+
+"Most days," said Gull. "Dolph can find it difficult to communicate sometimes. Especially when he's tired, which he often is because he doesn't sleep well usually. But when we both drink this, it's much easier." They sensed Bird's hesitation. "No pressure," they added. "I can go and grab you something else? It just helps you to sense a bit more that's all and that can be particularly good on a day like this."
+
+"I'll follow your lead," smiled Bird, and took a sip.
+
+The tea was quite unlike the first drink she had tried in 'Cake'. It was thin and yellowish, just below scalding, with a taste somewhere between tangy and bitter. It grew on her.
+
+As time wore on, Bird began to feel warmer. The conversation around them seemed to get quieter and more distant. Dolph reeled off a lot of facts about the solar system, but eventually their discussion turned to the Zhomics. Bird had been hesitant to ask directly, knowing that Gull hadn't seen her when they were with the Zhomics in the Gathering Place.
+
+But Gull introduced the topic themself.
+
+"They're so accepting of Dolphin," they explained. "It makes such a huge difference. We were part of a multi-family pod for a while before, but the others there just couldn't understand his differences. Either they would treat him like a child, or like he's stupid. But he's incredibly smart. He's just not always willing to play by other peoples' rules."
+
+"I don't _understand_ other peoples' rules," said Dolphin. "They make no sense and they change all the time!"
+
+"The Zhomics just go with the flow. They see him as a whole person-"
+
+"I _am_ a person."
+
+"-even without a Fonu. You wouldn't believe how many things expect a full Fonu interface for basic use. Well, maybe you do because you've stripped yours down."
+
+Bird nodded. That she did understand. And now she understood, too, that Dolphin's synapses might fire slightly differently from other peoples'. Access to a fully connected Fonu interface was granted to any resident of Nubo upon obtaining certain results from a cognitive scan. Anyone could take the test at any time, at any age, until they obtained an affirmative result. Brains that were still developing, typically in the heads of children, tended to result in an inconclusive outcome, and most commonly it was taken and passed when someone was in their mid to late teens according to planetary years. There were always those who took it earlier or later, and those who chose never to take it at all. Growing up, Bird had known an eight year old who had already got Fonu rights, and an elderly family friend who refused to entertain the idea.
+
+The Fonu was a powerful device, which interfaced with Nubo Station itself, as well as directly with other people, and served as a gateway to almost all aspects of station life. The cognitive scan, which had been developed and scrutinised and refined over decades looked for configurations and patterns within certain ranges which indicated that access to this interface would provide more opportunities than disadvantages, for both the individual and the community.
+
+Most people never thought to question this. It was simply the way things were.
+
+Bird had the sensation of a bridge. She couldn't see it, so much as experienced it as a concept. A great, arching bridge supported at intervals by enormous square towers, it connected Nubo Station with the planet below them. She turned towards the window, placed a palm flat on the plexi, and craned her neck downwards. The clouds had gone from greys and whites to warm reds and oranges. The planet was afire, and the bridge emerged from the fire, extending directly towards her. Was the fire destructive or cleansing? Was the bridge an opportunity, a path for her to take? Or was it an emergency exit for people trapped below?
+
+There was nobody below of course, she knew this intellectually. The planet was completely toxic. Nothing could possibly live. But although they hadn't spoken, she understood that Gull and Dolphin suspected there might be. It was an unusual belief, reserved for very fringe communities. But it wasn't humans they believed in, necessarily, but something else.
+
+She felt a rush of anticipation. A discovery was coming, a revelation. Not only to her, but to everyone on Nubo. There was a great story waiting to be told, and it would be told in her lifetime, and she would know how it ended, and it was going to be extraordinary.
+
+The fires below receded and everything was suddenly devoid of colour altogether.
+
+"Look up," Gull suggested, nudging Bird's arm.
+
+People crowded around them to get closer to the window, pressing together in a throng. The moon, barely noticeable before as a shadow of a disc, was starting to creep in front of the sun. It turned from an unassuming rock to a gaping void, a dark hole that swallowed the light. Gripped, Bird watched as each moment it inched closer to the center, until finally she beheld a ring of fire, as if captured from the fires she had seen in the clouds below.
+
+The moon paused and the ring seemed to grow. The flames licked at the edge of her perspective and she was falling through the center, not down though, but up or across or through.
+
+Then she was back in her seat and the moon was continuing its journey. The sun became a crescent, and then whole again, and the moon disappeared back into obscurity.
+
+TODO: Gull's job and tattoos
 
 ## …
 
