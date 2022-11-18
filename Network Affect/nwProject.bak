@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2022-11-17 22:27:27">
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2022-11-17 22:28:27">
   <project>
     <name>Network Affect</name>
     <title>Network Affect</title>
     <author>Rhia Ro</author>
     <saveCount>1</saveCount>
-    <autoCount>182</autoCount>
-    <editTime>1518914</editTime>
+    <autoCount>183</autoCount>
+    <editTime>1518974</editTime>
   </project>
   <settings>
     <doBackup>True</doBackup>
@@ -108,7 +108,7 @@
       <charCount>3065</charCount>
       <wordCount>503</wordCount>
       <paraCount>27</paraCount>
-      <cursorPos>378</cursorPos>
+      <cursorPos>398</cursorPos>
     </item>
     <item handle="9f1a771365035" order="2" parent="5455c1f3a1c70">
       <name>nubo - plot dump by char</name>
