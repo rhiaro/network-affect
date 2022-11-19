@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2022-11-18 23:15:33">
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2022-11-19 22:57:50">
   <project>
     <name>Network Affect</name>
     <title>Network Affect</title>
     <author>Rhia Ro</author>
     <saveCount>1</saveCount>
-    <autoCount>188</autoCount>
-    <editTime>1608199</editTime>
+    <autoCount>193</autoCount>
+    <editTime>1693537</editTime>
   </project>
   <settings>
     <doBackup>True</doBackup>
@@ -14,10 +14,10 @@
     <spellCheck>False</spellCheck>
     <spellLang>None</spellLang>
     <autoOutline>True</autoOutline>
-    <lastEdited>bf0a646aa78da</lastEdited>
+    <lastEdited>c11790a07a2de</lastEdited>
     <lastViewed>None</lastViewed>
-    <lastWordCount>21810</lastWordCount>
-    <novelWordCount>19951</novelWordCount>
+    <lastWordCount>22904</lastWordCount>
+    <novelWordCount>21045</novelWordCount>
     <notesWordCount>1859</notesWordCount>
     <autoReplace/>
     <titleFormat>
@@ -74,10 +74,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>112896</charCount>
-      <wordCount>19944</wordCount>
-      <paraCount>484</paraCount>
-      <cursorPos>108776</cursorPos>
+      <charCount>118933</charCount>
+      <wordCount>21038</wordCount>
+      <paraCount>512</paraCount>
+      <cursorPos>73821</cursorPos>
     </item>
     <item handle="5455c1f3a1c70" order="1" parent="None">
       <name>Plot</name>
@@ -108,7 +108,7 @@
       <charCount>3065</charCount>
       <wordCount>503</wordCount>
       <paraCount>27</paraCount>
-      <cursorPos>397</cursorPos>
+      <cursorPos>0</cursorPos>
     </item>
     <item handle="9f1a771365035" order="2" parent="5455c1f3a1c70">
       <name>nubo - plot dump by char</name>
