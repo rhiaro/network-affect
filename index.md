@@ -572,13 +572,69 @@ Bird pressed her palm on the smooth panelling of her pod door to trigger the ope
 
 ## Journey south
 
-TODO: walk back along the tracks
+Mustard walked with an ardent determination. Sushi kept pace. The hard, black ground that made up most of the areas around Scot gave way to a packed brown dust. They took it in turns to push the trolley containing the pack until the ground made it more work to do that than simply carrying it.
 
-TODO: get on a train
+Gradually the railway line descended into a kind of gully so that Mustard and Sushi were walking along the top of a steep bank that ran alongside.
+
+As they walked, Mustard talked about Sco, about the people they knew and the things they did every day, hoping to jog Sushi's memory. He was recalling the time after Sushi was born, when everyone gathered for the ritual of naming, when they would all enter the Great House and descend deep into the stores, to select an object bearing ancient letters. Items would be passed around, touched, held, examined by every member of the population. Some were discarded - anyone could discard an item if the symbols upon it did not feel fitting - until eventually only one thing remained in circulation and nobody had been moved to set it aside. For Sushi's naming, this had taken all day and into the night. Mustard remembered being so hungry. The Elder of Letters took the object, finally, and read part of it aloud, turning marks into sound, and thus Sushi was named, and young Mustard could eat.
+
+By the time they reached the place where the tracks coming from the north connected with the line between Itor Itol and Sco, the pair were both ready for a rest. They sat on the lumpy ground, ate some snacks, and looked up at the sky.
+
+The clouds now were deep and contrasting, like a landscape inverted above their heads. Mountains, valleys, deserts, all there at great distance in shades of brown and grey.
+
+The air was warm and charged. Far away and high above, a flicker of blue-purple light ricocheted around the clouds and disappeared again. Mustard registered it in his peripherals, but attached no significance.
+
+They walked on.
+
+The ground became littered with rocks and stones which were uncomfortable to walk on and sometimes so large that the duo had to skirt around them. The track levelled out again with the ground so that Mustard and Sushi were walking alongside it once more, rather than looking down on it from above.
+
+Again, they sat to rest. Mustard perched on a rock that was just the right size, and Sushi sat on the ground by his feet.
+
+Then she umped back up again.
+
+"I can feel the train, it's coming."
+
+"What? It's too soon!"
+
+"No, it isn't close. But we don't have time to rest. We will meet it at Do As Er as long as we keep walking now."
+
+Mustard moved to put his ear to the tracks, but Sushi was already marching ahead. His feet were sore and his shoulders ached from the pack but he could do nothing else but hurry after her.
+
+Do As Er Station was little more than a platform by the side of the track. It might once have had walls and a roof but nothing of that was left now. The platform stood quite high from the ground. Mustard had to haul himself onto it with a boost from a rock under one foot, and then turn back to reach for Sushi and pull her up after him.
+
+"It's going to stop," Sushi said, before the train was even in sight. "I can hear it slowing down."
+
+It was a few moments before Mustard, straining, heard its distant rumble. Then they saw it arching gracefully around the curving tracks.
+
+The train pulled to a gentle halt at the station, and the doors hissed open. Mustard hesitated, half expecting to see Lemonade step out of one of the three carriages. Nobody emerged, and Sushi pushed gently on th eback of his leg to hurry him up.
+
+They stepped into the carriage and the door closed at once behind them.
+
+The air inside the train felt cleaner and dryer than outside, and it was pleasantly warm. The carriage was lined with pairs of seats on both sides, all facing the same direction. The seats were covered completely in a thick blue-white fur, wispy and fibrous. The fur extended a little eway around the base of the seats, and the aisle between them was covered in a more compact but slightly springy similarly coloured substance. Between windows and at some spots on the ceiling, clung more patches of the fluff, as if it wanted to spread but something was fighting it back.
+
+As Mustard and Sushi moved slowly down the aisle, it seemed as though something floated in the air all around them. At first Mustard thought it was dust particles, disturbed by their footfall, catching the light strangely. But it wasn't dust. Tiny fragments of something drifted about their heads, glowing ever so slightly golden under their own power. They did arise from the floor in little plumes whenever Mustard or Sushi set a foot down, and continued to meander gently upwards, around their faces, before floating sideways to settle somewhere in a clump of the white fur.
+
+Sushi chose tow seats in th emiddle of the carriage that were separated from the next row by a bigger space than the others, and the next row faced towards them rather than away. This allowed them to sit opposite each other, and both had a view from the window which was only a little impeded by encroaching fur tendrils.
+
+Mustard touched the stuff gingerly before sitting down, though Sushi hauled herself onto the seat without hesitation.
+
+As soon as they were seated, the train began to move.
+
+Before long the world was speeding along at a pace neither had witnessed previously. Sushi stared out of the window, captivated, but Mustard started to feel a little sick. He wished he had thought to pick up supplies from the Fixing House as well.
+
+"How long to Itor Itol?" Asked Sushi. "How will we know when we get there? Will it stop at any other places?"
+
+Queasily, haltingly, Mustard answered. "A day. We should arrive at the most light part of tomorrow. No more stops. So we will see, we will know."
+
+"What if it doesn't stop? What if it doesn't stop _ever_?" Sushi's eyes were wide, as if she couldn't believe this possibility had only just occurred to her.
+
+Mustard felt too ill to consider it. He waved his hand dismissively. "It will stop," he breathed, with eyes closed.
+
+* * *
 
 The train speed dropped all of a sudden, and it rumbled to an abrupt halt. A high pitched hiss signalled the opening of the doors.
 
-"Are we there? Somewhere?" Said Mustard.
+"Are we there? Somewhere?" Said Mustard, jerking awake.
 
 Sushi was pressing her face against a window. "I can't see much," she replied. "It's almost night. But I don't think we're at a station."
 
@@ -1014,5 +1070,53 @@ Chinchilla paused. Bird waited, sensing she was on the verge of saying what she 
 
 In which Mustard and Sushi find out more about the railway.
 
-## …
+## (the zhomic fungal experiment)
+
+The Sheldrake Loop was the farthest Loop from Turing, and the closest one to the planet. It hosted a lot of the heavier manufacturing processes of Nubo industry. It was the base for Nubo III operations, as well as where structural replacements and reinforcements for Nubo itself were assembled.
+
+Bird was surprised when Gull suggested going there. Of course it had residential, education and social areas like every Loop, but the image she had of it in her mind was not one of a place for a leisure visit.
+
+Travelling between Loops always took place via the Dome. They waited in the transit hall for the interloop chutes to align, and then transferred to the next segment of the Dome via one of them. It took for hops for Gull, Bird and Dolphin to reach the Sheldrake Dome. Bird had been here once or twice before, but didn't know it well. It was similar to the Turing Dome, but with enough small differences to feel a little uncanny.
+
+They did not linger long in the Dome. Gull lead them a short way through a replenishment area, to a Gathering Place, where they met three others, Zhomics.
+
+Two were older, wrinkled but smiling, and obviously blood siblings, with thinning blond hair and blue eyes. Gull introduced them as Tapir and Ant. They both embraced Gull and Dolphin warmly, and then did the same to Bird as if they had known her all her life.
+
+The third was a young man with dark features and a stern countenance. He held himself as though he was tall, but as Bird approached him to introduce herself she realised he was barely taller than she was. He introduced himself as Buffalo., and shook hands firmly with the three of them.
+
+"I have heard a lot about you," he said to Dolphin, but did not smile.
+
+Something about the way Buffalo surveyed them, with his head tipped slightly back so that he could look down on them past his nose, gave Bird a chill feeling.
+
+They walked together to the Sheldrake Residential District. Gull and Tapir led, Bird walked with Ant and Dolphin in the middle, and Buffalo brought up the rear.
+
+They ascended three floors in a chute, and stepped into a completely ordinary looking hallway of family pods. A little way down, the group halted. Buffalo stepped forward to open the door, but it was something more than a simple Fonu acknowledgement. He appeared to be inputting some kind of pass code. Bird hadn't seen security like that outside of the mycolabs. Certainly it was out of the ordinary for a residence.
+
+The door opened and Buffalo stepped aside to let the rest of the group enter first. As Bird crossed the threshold, his Fonu chirruped angrily.
+
+"Stop there," he held out a hand in front of her, and adjusted something on his wrist display. "Okay, go."
+
+She stepped forward and Buffalo's Fonu made the same noise. He was frowning, at Bird and at his Fonu alternately.
+
+"What's wrong?" She asked, as innocently as she could.
+
+He seemed reluctant to share. Gull came back from the few steps they had walked into the residence.
+
+"Oh, Bird's Fonu probably needs to conset to your scan," they interjected.
+
+"What kind of scan?" Asked Bird.
+
+Buffalo glowered.
+
+"Don't worry," said Gull. "It's just to make sure you're not carrying anything that is always listening."
+
+Bird sighed. She tapped her wrist display and accepted the incoming connection request. She trusted her setup enough to know that all of her personal data was protected; a scan could only access certain details about her system itself; and that it would only permit a scan, and any attempt to alter or create data on her Fonu would be blocked at once. Whatever Buffalo's Fonu was doing, her display spewed reams of logs into the air around her arm. She would go through those later to find out exactly what he had been looking for.
+
+Finally Buffalo's device was happy, and she walked after Gull. She felt melancholy, knowing that Moss, for example, would not be authorised to enter this room purely because he needed Fonu assistance for auditory processing.
+
+"This is a bit, well, outside of regulations," Gull was explaining as they walked. "It's for the security of the project. We can't let any evidence of this get out, or most likely someone will come to destroy it."
+
+They walked through a ordinary family pod, with sub-rooms laid out in a ring around a central oval gathering area. It looked well used, with chairs and cushions set at angles, and children's toys strewn across the floor.
+
+The difference came when they stepped into one of the rooms.
 

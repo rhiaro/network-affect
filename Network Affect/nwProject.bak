@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2022-11-19 22:57:50">
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2022-11-20 23:15:10">
   <project>
     <name>Network Affect</name>
     <title>Network Affect</title>
     <author>Rhia Ro</author>
     <saveCount>1</saveCount>
-    <autoCount>193</autoCount>
-    <editTime>1693537</editTime>
+    <autoCount>197</autoCount>
+    <editTime>1780976</editTime>
   </project>
   <settings>
     <doBackup>True</doBackup>
@@ -14,11 +14,11 @@
     <spellCheck>False</spellCheck>
     <spellLang>None</spellLang>
     <autoOutline>True</autoOutline>
-    <lastEdited>c11790a07a2de</lastEdited>
+    <lastEdited>bf0a646aa78da</lastEdited>
     <lastViewed>None</lastViewed>
-    <lastWordCount>22904</lastWordCount>
-    <novelWordCount>21045</novelWordCount>
-    <notesWordCount>1859</notesWordCount>
+    <lastWordCount>24079</lastWordCount>
+    <novelWordCount>21834</novelWordCount>
+    <notesWordCount>2245</notesWordCount>
     <autoReplace/>
     <titleFormat>
       <title>%title%</title>
@@ -74,10 +74,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>118933</charCount>
-      <wordCount>21038</wordCount>
-      <paraCount>512</paraCount>
-      <cursorPos>73821</cursorPos>
+      <charCount>123386</charCount>
+      <wordCount>21827</wordCount>
+      <paraCount>536</paraCount>
+      <cursorPos>120430</cursorPos>
     </item>
     <item handle="5455c1f3a1c70" order="1" parent="None">
       <name>Plot</name>
@@ -93,10 +93,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>NOTE</layout>
-      <charCount>2071</charCount>
-      <wordCount>355</wordCount>
-      <paraCount>15</paraCount>
-      <cursorPos>440</cursorPos>
+      <charCount>2803</charCount>
+      <wordCount>473</wordCount>
+      <paraCount>19</paraCount>
+      <cursorPos>22</cursorPos>
     </item>
     <item handle="c11790a07a2de" order="1" parent="5455c1f3a1c70">
       <name>plot</name>
@@ -105,10 +105,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>NOTE</layout>
-      <charCount>3065</charCount>
-      <wordCount>503</wordCount>
-      <paraCount>27</paraCount>
-      <cursorPos>0</cursorPos>
+      <charCount>4576</charCount>
+      <wordCount>771</wordCount>
+      <paraCount>24</paraCount>
+      <cursorPos>407</cursorPos>
     </item>
     <item handle="9f1a771365035" order="2" parent="5455c1f3a1c70">
       <name>nubo - plot dump by char</name>
