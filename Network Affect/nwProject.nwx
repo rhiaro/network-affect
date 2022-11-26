@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2022-11-25 23:23:00">
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2022-11-26 11:03:00">
   <project>
     <name>Network Affect</name>
     <title>Network Affect</title>
     <author>Rhia Ro</author>
     <saveCount>2</saveCount>
-    <autoCount>213</autoCount>
-    <editTime>2136957</editTime>
+    <autoCount>214</autoCount>
+    <editTime>2178957</editTime>
   </project>
   <settings>
     <doBackup>True</doBackup>
@@ -16,8 +16,8 @@
     <autoOutline>True</autoOutline>
     <lastEdited>bf0a646aa78da</lastEdited>
     <lastViewed>None</lastViewed>
-    <lastWordCount>29900</lastWordCount>
-    <novelWordCount>27655</novelWordCount>
+    <lastWordCount>30677</lastWordCount>
+    <novelWordCount>28432</novelWordCount>
     <notesWordCount>2245</notesWordCount>
     <autoReplace/>
     <titleFormat>
@@ -74,10 +74,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>156777</charCount>
-      <wordCount>27648</wordCount>
-      <paraCount>695</paraCount>
-      <cursorPos>154779</cursorPos>
+      <charCount>161294</charCount>
+      <wordCount>28425</wordCount>
+      <paraCount>719</paraCount>
+      <cursorPos>159272</cursorPos>
     </item>
     <item handle="5455c1f3a1c70" order="1" parent="None">
       <name>Plot</name>
