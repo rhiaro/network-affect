@@ -126,13 +126,13 @@ Her wrist tensed at a light vibration from her Fonu. Without slowing her pace, s
 
 Bird reached an internal shuttle hatch that would take her out of the Education District. Her Fonu interfaced with it at once and requested a destination. In one direction was the Residential District. Spending the rest of the day shoving a brush around little metal gadgets from her pod had not seemed unappealing, until a potential argument with Lamb had been thrown into the mix.
 
-She chose the option for the Commercial District, also known as the Dome.
+She chose the option for the Replenishment District, also known as the Dome.
 
 Moments later, the door swished open and she stepped into a large capsule like vehicle. There were few others inside at this time, but it wasn't uncommon to find the shuttles packed full. Bird briefly appreciated not being squashed against the curved glass side and forced to acknowledge the height or speed at which she was travelling.
 
 Moments later, she was stepping out of the chute in the Dome.
 
-Bird didn't come down to the Commercial District often, and what was available there seemed to be changing all the time. The group tasked with running the place were always in the stationwide reports, members joining and leaving, but she paid little attention. She turned into a relatively busy passage lined on both sides with holoshops where display screens reflected back images of anyone who paused long enough in one spot, visualising their own personal model of the goods available, and then awaiting input from their Fonu for customisations. All of this could be done from home pods too of course, and it was a relatively recent development that getting the stuff people needed became something they'd go out to do socially. Long enough that many had forgotten it was ever otherwise, but recently enough that Bird could remember feeling a change. A few years ago she had thought to contribute to this sector.
+Bird didn't come down to the Replenishment District often, and what was available there seemed to be changing all the time. The group tasked with running the place were always in the stationwide reports, members joining and leaving, but she paid little attention. She turned into a relatively busy passage lined on both sides with holoshops where display screens reflected back images of anyone who paused long enough in one spot, visualising their own personal model of the goods available, and then awaiting input from their Fonu for customisations. All of this could be done from home pods too of course, and it was a relatively recent development that getting the stuff people needed became something they'd go out to do socially. Long enough that many had forgotten it was ever otherwise, but recently enough that Bird could remember feeling a change. A few years ago she had thought to contribute to this sector.
 
 "Hey," a voice near her head, addressing someone else. "Hello, it's Bird isn't it?" No, addressing her. She stopped abruptly, her shoulders brushed on both sides by people still moving. A short-haired, hazel-eyed face had stopped beside her, an expectant look in their eyes. Familiar. "I was in Maple's class just now," they explained. "I'm Gull."
 
@@ -148,7 +148,7 @@ Bird shook her head. "I was named in Sky." She hadn't grown up there, but it did
 
 Gull's eyes widened again. "Sorry, I didn't mean..."
 
-Bird smiled, feeling a little pity. "No, not late. No plans." She hesitated a moment longer, then sighed. "Do you know any good places on Commercial?"
+Bird smiled, feeling a little pity. "No, not late. No plans." She hesitated a moment longer, then sighed. "Do you know any good places in the Dome?"
 
 Gull brightened at once. "Good places for what? There's a great place for abbiodilla cake down on two. Or for fizz on four."
 
@@ -162,7 +162,7 @@ They followed the curve around, then went into a chute to go up two levels. It w
 
 The place was dim and cosy. Enclosed by thin walls in shades of brown and burnt orange, 'Cake' was in a controversial position against the very edge of the Dome. Instead of walling off the sheer transparent plexi like many places on the outer ring, they had embraced their location and foregone artificial light in favour of the mottled natural light that seeped in from _beyond_.  Gull paused to ask Bird where she would like to sit. Bird took it for granted that Gull would be joining her, and pointed to a seat by this window to the outside world. The seats were comfortable, sinking velvety armchairs.
 
-The menu appeared on her forearm with a chirrup. She ignored it, and leaned forward to stare at the eddies of dark sand that swirled _beyond_. For the past ten years, the Commercial District had found itself peeking out above a storm of whirling debris, just loose enough to allow threads of pure sunlight through the sides. Today the light was tinted to darker shades by the raging sand and dust, and cast ever moving patterns across the walls in 'Cake'. Someone smart had designed the decor to complement this. She pressed her fingers on the plexi. It all seemed so close, the chaos. Inches away from her face. But there were metres and metres of material between Bird and _beyond_.
+The menu appeared on her forearm with a chirrup. She ignored it, and leaned forward to stare at the eddies of dark sand that swirled _beyond_. For the past ten years, the Replenishment District had found itself peeking out above a storm of whirling debris, just loose enough to allow threads of pure sunlight through the sides. Today the light was tinted to darker shades by the raging sand and dust, and cast ever moving patterns across the walls in 'Cake'. Someone smart had designed the decor to complement this. She pressed her fingers on the plexi. It all seemed so close, the chaos. Inches away from her face. But there were metres and metres of material between Bird and _beyond_.
 
 _How did we live out there?_ She wondered.
 
@@ -408,7 +408,7 @@ Bird followed Coral down the metal corridor, and Chinchilla followed a short dis
 
 Coral waved his hand in front of a wide door, inset into the metal walls. The door registered Coral's Fonu and raised upwards with a hiss.
 
-Coral led Bird and Chinchilli into the mycolabs. It had been dark for a moment on the other side of that door, but the light level rose gently as their presence was detected. A walkway was illuminated softly ahead of them from either side at ankle height. Unlike the service corridor they had just passed through, the floor underfoot felt padded, and their steps made almost no sound. It wasn't fabricy and soft like in the Education and Commercial Districts, but had a comfortable give as they walked.
+Coral led Bird and Chinchilli into the mycolabs. It had been dark for a moment on the other side of that door, but the light level rose gently as their presence was detected. A walkway was illuminated softly ahead of them from either side at ankle height. Unlike the service corridor they had just passed through, the floor underfoot felt padded, and their steps made almost no sound. It wasn't fabricy and soft like in the Education and Replenishment Districts, but had a comfortable give as they walked.
 
 The angle of the lights meant that the walls were visible only up to about their waist heights, and disappeared into darkness above. They couldn't see the ceiling, and could see little up ahead as the corridor - like most on the Station - turned a curve.
 
@@ -1119,4 +1119,620 @@ Finally Buffalo's device was happy, and she walked after Gull. She felt melancho
 They walked through a ordinary family pod, with sub-rooms laid out in a ring around a central oval gathering area. It looked well used, with chairs and cushions set at angles, and children's toys strewn across the floor.
 
 The difference came when they stepped into one of the rooms.
+
+Instead of a small room with a place to sleep, and perhaps places to read or write or think or exercise, or pursue some other favoured activity, there was no room at all. The door opened into a small white chamber with vents in the walls and another door immediately across from them. They all squeezed in, and the door behind them closed.
+
+"Just standard decontam," Gull whispered to Bird. "Same as Turing mycolabs."
+
+Invisibly and inaudibly they were flooded with decontaminating raditation, and then the other door opened.
+
+When Bird stepped through, she immediately stood agog.
+
+Somehow, they were now in a chamber of awesome proportions. How such a place could possibly fit inside the Residential District Bird could not imagine. It was like she had stepped through to an alternative dimension. The ceiling was at least two or three ordinary storeys above, though hard to see behind a kind of haze that floated all around them. The air was humid and _hot_. It was always temperate on Nubo, the optimal level for human bodies with only small fluctuations. Bird had never felt herself sweat without exertion before. For a moment she found it difficult to breathe.
+
+The others were walking onwards, but Bird paused to take in her surroundings.
+
+The whole place was simply alive.
+
+The Zhomics followed a twisting trail along which the original floor of the place was just barely visible, and that only because human feet trampled along it so frequently. Along its edges was some kind of dark, sludgy, apparently organic matter, entwined with tendrils that seemed ready to engulf the path completely if only they were given a few days without interruption.
+
+The walls of the place were not visible, having been swallowed completely by all manner of growths. Cable-like protrusions hung and wove themselves in and out of everything, or draped themselves across mounds of steaming mulch. Furry and scaly growths covered huge stretches of the uneven person-sized hillocks that filled the place. Patches of short, stubby tendrils, variously in orange, lilac, black, grey and white, poked out of the mounds like many thousands of small fingers reaching forth. Clusters of gooey cups in browns, yellows, reds, nestled together, some as big as Bird's head, others as small as her fingertip.
+
+Slowly she followed the others, hardly knowing where to look.
+
+Close to her foot, a bunch of tall, spindly fungal fruiting bodies with tiny black conical caps were trying to encroach on the path. At her eyeline on the other side, a collection of small, scarlet funnels had burst out, baring their gills for all to see.
+
+She caught up with the others, who had paused, but not to wait for her. Ant was showing something to an excited Dolphin.
+
+"It's a big spore shooter," Gull explained softly as Bird drew close. "It's about ready to burst. If we wait a little while we might see it."
+
+Dolphin was wanting to help it along with a sharp poke, but Ant was persuading him that it was better left t its own schedule.
+
+Time had stopped, it seemed, as the six of them waited and watched.
+
+The subject of their fascination was a greyish ball, bigger than any of their heads. It perched, alone, at a height the tallest of them might have reached with arms outstretched. It looked soft, cushiony, and was covered with a coating of very fine spines. It seemed to shift subtly, as if something inside was waking up. Beside her, Bird noticed that Gull was holding their breath.
+
+With no fanfare at all, a small hole appeared in the side of the thing. The skin burst open as if pushed gently by a single finger from inside. From here, a cloud of green erupted, and had drifted the width of the space above their heads before Bird had even registered the movement.
+
+Gull laughed and clapped their hands.
+
+The spores continued to pour forth in a torrent, and caught by some unseen eddies high above, they were swept along and around, as if searching for a place to land. The simultaneous power and delicacy of the occurrence took Bird's breath away.
+
+"Have you seen that before?" Bird asked Gull.
+
+"Yes, but only once. It's rare. You're lucky!"
+
+As they walked on, Gull explained that several home pods across multiple floors had been adapted to create this place, beginning over fifty cycles before. Bird was aghast. She wanted to ask how this had not been detected by Nubo Station security, or indeed any kind of environmental monitoring processes, but thought better of it in Buffalo's presence.
+
+"The first things that were inoculated were the furnishings and interior walls of the pods. It grew from there. Now it gets fed with waste materials of all kinds. Things that would anyway go for recycling. All Zhomics contribute something."
+
+Such a contribution, Bird realised, meant that the Zhomics sacrificed an increasing portion of their materials allowance every cycle. Every item of clothing, or homeware, or hobbyist materials constituted in the Replenishment District must eventually be returned through the station's recycling processes. The calculation of how much material could be in circulation at once, and how much remained available for each individual person was complex, and meant that what any one person had access to was always shifting slightly, and varied depending on what one had already used, as well as personal circumstances and in some cases the station function held. For everyone Bird knew, the allowance was high enough that nobody worried about exceeding it.
+
+What the Zhomics had going here couldn't be too far removed from the normal recycling processes. But if it was all completely unaccounted for by the recycling functionaries, it might be throwing a lot of calculations off. Instinctively, Bird felt she ought to be careful about that line of questioning, too.
+
+"Where did the spores come from? Originally I mean? There are so many different kinds here."
+
+"Oh, you know," Tapir put in before Gull could answer Bird's question. "There are spores everywhere when you know how to collection them."
+
+"And this is not... connected to the air supply of the rest of the station?"
+
+"It's completely isolated," Tapir confirmed. "None of them can grow beyond the space allotted. And none of the spores can get into the general air supply. So it poses no risk. But don't ask me how. That's 'above my pay grade', as Cap'istas would say." Tapir laughed.
+
+Bird was unsatisfied by this vagueness, but smiled and said nothing more. She would interrogate Gull - or Dolphin - when they were alone.
+
+The longer her eyes lingered in any particular spot, the more she saw. It seemed as though things were wriggling, moving, but when she fixed her focus to one thing it was all perfectly still, besides the occasional glimpse of dust-like spores drifting by on fungi-generated air currents.
+
+She saw some varieties she recognised from the Turing mycolabs, but most she did not.
+
+They rounded a slight bend in the path, probably following the natural arc of the Loop, and to their left an enormous bracket arched out from the wall. Its many smaller siblings clustered around either side, and together they sheltered a whole miniature ecosystem of other growths. The bracket was moist, collecting droplets from the air and periodically raining them down on everything below. An array of small, springy purple spouts poked up from a carpet of green, slimy mould. More tiny delicate spindles with rippled flat caps were dotted around. Groups of orange blobs, like tiny eggs. Occasional splatters of a foamy cream substance that looked, to Bird, remarkably like vomit.
+
+She could only tear her attention away from this micro jungle when she saw what they were heading towards.
+
+The fruiting body dominated the entire rear wall of the Zhomic 'mycolab'. Three storeys high, with a pale grey stem wider than Bird's arm span. Its enormous silver cap, looming far above them, had a surface area bigger than Bird's whole home pod. It was surrounded at the base by mounds of fungi filled debris, but nothing else like itself. The underside of the cap was covered in tiny spines, which pointed downwards like thousands of little stalactites. Or at least they seemed tiny in comparison with the sheer size of the rest of it; in actuality they were probably bigger than Bird's fingers.
+
+"Bird, meet P’rkut’yun," said Ant proudly. "This is where it all began."
+
+"P'rkut'yun is the oldest fungus we have," continued Gull eagerly. Bird noted, in her subconscious, the 'we'. "It was here before the whole of this place. It started as a small growth, and eventually was transplanted here. It underpins this whole place. It's everywhere. It was discovered a hundred and twenty two cycles ago, but we think it's much older. It only makes one fruit at once, but as you can see..."
+
+"How... how long does it take to grow?"
+
+"It takes about three cycles to reach maturity, which its almost at now," Tapir answered the question, seemingly pleased that Bird had asked.
+
+"And then what happens?"
+
+"It spores, and collapses, just like most others. It becomes food for everything around it. There are other fungi present here which _only_ grow on the exhausted body of P'rkut'yun."
+
+"Why does it only make one? Always in the same place?"
+
+Dolphin chipped in. "We don't know where the next one will come up. Wherever the best spore lands! We have to search carefully for it for half a cycle."
+
+"When we find it, as a small fruit," continued Tapir, "we have to clear the area and tend it carefully. Well, I saw we 'have to'. Really I think it would be just fine without our help."
+
+Dolphin was leaning forward as far as he could around the tangle of other growths and decomposing material to caress the enormous stipe. It was covered in a kind of velvety down that was long enough for Dolphin to nestle his fingers into. Buffalo stood back, arms folded, watching Dolphin with a curious look in his eyes.
+
+"We think it only fruits once because of space," said Gull. "Its mycelia run through this whole place. Dig a hole anywhere and you will find them. Given a big enough area, so they can space themselves apart, we are sure it will produce more."
+
+Gull looked like they were itching to say more, but Buffalo cut in.
+
+"That's the tour. Our wild 'mycolab'. Not like the carefully boxed up one you have in Turing. What do you think? Come, this way."
+
+"We'll have some tea," said Ant, taking Dolphin's hand.
+
+* * *
+
+Bird stayed with the Zhomics for several more hours. They left their 'mycolab' for a smaller, comfortable room off to one side. The room contained several buckets from which grew hundreds of small brown fungi. Bird watched as Gull and Buffalo harvested a few handfuls, and boiled them in a pot on a small portable stove.
+
+"Really fresh," Gull grinned. "Instead of dried and powdered. I don't know if you'll be able to tell the difference, but you get to, after a while."
+
+The brew of sib tea was far stronger than that which Gull had brought to Bird in 'Cake'. But Bird felt comfortable, especially with Gull and Dolphin; and the cheery conversation of Ant and Tapir certainly put her at her ease.
+
+Reading Buffalo became easier as Bird's body absorbed the tea. Although he said little, he went from surly and secretive to nervous and vulnerable in Bird's perception. She felt a strong sense that he needed her help.
+
+But this was sidelined by the sensation she had of the love Ant and Tapir felt for Gull and Dolphin, and then for her as well. She could almost see it radiating from them.
+
+As their conversation wore on, Ant and Tapir began to look younger and younger, and Dolphin was looking older. He shared experiences with them that Bird wouldn't possibly have imagined he had had earlier that day. He spoke eloquently about rejection, about the collapse of his first family, and about feeling things that he was completely unable to express neither in words nor emotive reactions.
+
+It was the Zhomics, it turned out, who had united Gull and Dolphin.
+
+Blood siblings close in age were relatively rare on Nubo, because all babies born had been implanted into their parent's womb from an embryo bank. Any new life naturally conceived - which was rare in and of itself - had to join the queue, because the station did not have the resources to support an organically growing population. Political upheaval some two hundred years earlier had left the embryo bank facilities in some disarray. Many records had been muddled or completely destroyed, and storage protocols lost. Since then, the ancestry of an implanted embryo was anyone's guess.
+
+But nobody thought of that any more. Families contained many members, none of whom needed to look at all alike. Anyone could bear a child with a routine medical intervention, which was only a little more complex if the parent-to-be hadn't been born with a womb to begin with.
+
+Meeting a blood sibling was considered miraculous by some, and a fluke by others, but the Zhomics saw a sign from fate. They even had members who moved frequently between Loops, searching for physical similarities among the population. It was far from an exact science of course. Bird knew they had no access to genetic testing, no way to prove that two people were or were not related to each other. Indeed, if the general population of Nubo was suddenly taken with the idea of tracing all of their blood relatives, she was sure the appropriate technology and administrative infrastructure could be in place in less than half a cycle. So it seemed an uncommon amount of effort for the Zhomics to go through, chasing family lines one by one, over ages. Some sense of respect for their strange culture prevailed in Bird's mind, and she kept these thoughts to herself. After all, Gull and Dolphin were so happy now.
+
+At one point, Buffalo produced a large flat map of the planet. A real, physical thing, not a Fonu projection. It showed the contintents and terrain like mountain ranges in far more detail than they were usually able to observe from the station.
+
+From Ant and Tapir, Bird learned that the Zhomics had a much deeper, more passionate connection with the planet than she had realised before. The two of them wove stories of acres of jungles, thousands of plants and animals, living interconnected lives, competing and cooperating, entwined on micro and macro scales, and everything in between. Listening to Ant and Tapir talk, Bird found herself transported. She wasn't simply picturing what they described in her mind. She was _there_, down on the planet, with ten thousand of Ant's namesakes, feeling soil under her feet, tasting sweet and tangy laves, breathing hot jungle air, and knowing that she was not and could never be alone.
+
+Then she was bigger, with furry fingers and sharp black claws, and a long curling tail that balanced her as she scrambled vertically up the trunk of an enormous towering redwood. She had seen artists impressions of trees, based on old and much debated records from centuries before. But now she could feel rough bark under her fingertips, crumbling if she gripped too hard; could thrust her head through a canopy of leaves, feel the cool of the dew as it sprayed off in all directions. From the highest point above the jungle, greens in shades she had never even imagined, and which she would soon forget, stretched out towards the horizon whichever way she looked, rolling, writhing, teeming.
+
+And overhead, an azure, cloudless sky. She opened her arms, gripping a branch with elongated toes, bearing her face to the heavens, ready to swoop upwards, to dive into the blue embrace of a world upturned.
+
+She soared. The fur on her arms morphed into long white feathers, her arms lengthened, her fingers disappeared, and a path appeared before her, invisible but as clear as day, a route to follow on the air currents, a guided tour of the overstory.
+
+And so she launched herself upwards, surrendering to the sky, letting the world toss and turn and take her where it would, yet with a firm sensation of control, of complete confidence that came from a wholehearted unquestioning trust that the universe would take care of her.
+
+At long last, Bird was herself.
+
+## …
+
+## (another chapter)
+
+"The Zhomics are a lot more _preservationist_ than I realised."
+
+Bird and Gull were walking together in the direction of the mycolabs. Gull was explaining a prevailing belief among the Zhomics that the obvious next stage for their carefully cared for wild mycolab was to transport spores and mycelia to the surface of the planet. Fungi were, after all, fundamentally transformative beings. They reconfigured and restored. They took old, dead matter, and turned it into something useful, something that could be used for life. So why not use them to heal the planet?
+
+"There's a real connection among the Zhomics with the planet," Gull said. "I find it very... pure. And I always think of the preservationism beliefs as very backward looking, you know? But the Zhomics... They really think about the future. About combining what we know now, you know with modern science, mycology and that, to advance. Not just trying to revert everything back to how it used to be. A time we don't even really have records of."
+
+Bird left Gull at a chute that would take them to the Dome, and continued on. She went directly to the sterilisation equipment and took over from Llama, a serious-looking person who cleaned things extremely quickly and rarely spoke, even in greeting.
+
+Bird carried out her tasks automatically, her mind preoccupied with reflecting on Zhomic philosophy and the possibilities of restoring the planet below by means of fungal spores. She resolved to ask Coral if he thought it sounded remotely feasible.
+
+As she approached the break room, she stumbled. She had been given new boots with her new function, which had reinforced toes to protected her feet from misadventure with the heavy equipment of the mycolabls, and she still wasn't used to them, particularly the laces. One had come undone, and snagged itself on a clip on the boot of the other foot. She knelt in the corridor to untangle the string, and retie it properly.
+
+She heard Moss's voice, then, coming from the break room through the open door. He was speaking in hushed tones, but his voice nonetheless carried out into the passageway.
+
+"There are at least a hundred different species. Thousands of individual entities. All in that one area. The distribution doesn't make sense at all. It's nothing like what I detect for they mycolabs."
+
+"Have you been over there to see?" The reply was Coral, less hushed.
+
+"On the map it's residential. All official records don't look anything like what the c-net is telling me. I'm not sure how I'd justify poking around in person."
+
+Bird froze and memories of the Zhomics wild mycolabs flashed through her mind. But surely they must be talking about something else. She finished with her boots and made the final couple of steps towards the doorway as loud as she could, to announce her coming.
+
+Moss and Coral greeted her as she walked over to the _thurm_ machine, and did not resume their conversation. Moss was scowling down at the table.
+
+"Are you okay?" Bird asked, with genuine concern. He looked really troubled.
+
+He looked up and the expression faded. "I have a baffling problem with a side project," he smiled. "Nothing serious. I'm just not sure how to tackle it next."
+
+"Anything I can help with?" Bird said nervously. "I'm happy to bounce ideas. Though if you're already doing that with Coral there's probably not much I can add."
+
+Moss shook his head. "I should get back to work."
+
+"Do you two have a new project?" Bird asked Coral when Moss had left.
+
+"Oh, that was about a Moss project," said Coral. "I'm not even sure I understand how it works. So if he's getting weird readings its as likely to be a problem with his system as it is with an actual anomaly."
+
+"Right. What's he doing?"
+
+"Some kind of alternative sensing infrastructure that will let him bypass the station's central processing for audio enhancement. Or that's the theory anyway. I think it has ended up doing more than he expected. And is over complicating his life as a result. How are you? Any adventures with your new friend lately?"
+
+Bird felt a slight blush come to her cheeks, though she couldn't place why. She was, for a moment, tempted to tell Coral all about the incredible wilds she had witnessed in the Sheldrake Loop. For a moment. Then she remembered the station's ears. It was too special a place to risk exposure. Its existence was in clear violation of the agreed uses of the Residential District spaces. There was no way it would be allowed to remain. Coral spoke again, before she decided what to say.
+
+"Hey, you want to bounce ideas? Your Zhomic friends would probably be into this one. Chilla would hate it. What do you think about recovering parts of the planet using specimens from the mycolabs?"
+
+Bird started.
+
+"We've made real progress recently with our programmable molds. I think we're at a stage where we can start splicing genes between different species and get really specific behaviours. I got a new team member - her name is Puma - and she is fixated on this idea of 'designing' a full planetary ecosystem, you know, spec-ing out the end goal, and then working backwards over th series of conditions needed to get there. For each stage, in theory, we could program a set of fungi to generate it."
+
+"Sounds... exciting," said Bird weakly.
+
+"I thought she was pretty out there at first, but shes' really thought this stuff through. I've looked over her equations. Problem is, it's so hard to test in a lab. Even on a small scale, it's just too small. We need other factors, things you can only get, well, on the planet."
+
+"You sound really hyped about this. You really think it could work? How will you find out?"
+
+Coral shrugged. "You know, the more I think about it, the more promising I think it sounds." He looked a bit embarrassed. "I even ran some simulations. Right after I told Puma what a totally impossible idea it was. I'm convincing myself."
+
+"You sound like you want to convince yourself."
+
+"Maybe I do! We're so used to the idea of spending our whole lives on the station. We all feel like the planet will be livable again, one day, but not for us. Otherwise why would they be building Nubo III? Who really knows how many generations we'll be up here. But fungi can transform things so quickly, we owe our survival as a species to that fact. Don't you think it'd be amazing if we got to go back down there in _our_ lifetimes?"
+
+"Yeah. It would."
+
+"We're calling it mycoforming," he added.
+
+* * *
+
+Bird fretted all evening about the prospect of Moss discovering the Zhomics secret. It seemed too much of a coincidence that Coral had brought up the mycoforming topic, seemingly out of nowhere, on the very same day that Bird had heard the same basic principle posited by Gull. Did he know something he wasn't letting on? Had Moss been listening through his constant connection to Nubo?
+
+Bird tried to chase the thoughts away.
+
+She prepared a simple meal for herself: a fluffy sourdough, and chunks of stringy mycoprotein in a fermented smokey sauce. She pondered the components. Yeast to rise the bread had ultimately come from research in the mycolab. The mycoprotein of course had been developed there, though it was such a stable it was hardly considered an innovation any more. The sauce's distinct tang came from the activity of yeast as well. Fungi were everywhere. Of course, this was what the Zhomics had meant when she asked them where their spores had come from. She kept pushing back the tiny part of herself that couldn't help but wonder if they had stolen from the mycolab in the Turing Loop.
+
+And of course, everyone on the station was obsessed with the planet down below one way or another. Whether it was getting back to it, getting as far away from it as possible, or steadfastly leaving it alone, it provided a constant source of fixation and friction.
+
+Given all that, Bird reasoned, probably one in ten people ran into the idea of using fungi to sort the planet out at some point in their lives. One in five, even. It was more strange, she decided, that she hadn't come across the idea sooner, actually. The difference was that most people didn't have the kind of expertise or resources that Coral had access to. But even Coral had no way of actually getting down to the planet.
+
+* * *
+
+Several days later, Bird was walking the length of her floor in the Residential District to have lunch with Lamb. This walk always felt eternal, because lunches with her parent were exhausting.
+
+Without fail, Lamb prepared something that Bird didn't like to eat. She wasn't a picky eater, but somehow Lamb would always concoct the exact wrong combinations of tastes and textures. Bird had long since given up trying to correct this.
+
+Bird saw her other three parents far less frequently. They were career child-raisers, and still took care of a large family as part of a multi-family pod in the Gebru Loop. Lamb had been with them for cycles before Bird was born, but separated from the group shortly after Bird had moved out of the family pod.
+
+Lamb was the only one who spoke little of the language Bird was raised with, Pranto. Bird remembered her childhood as a constant competition between Lamb and her other parents, with Lamb coaxing her to speak Espa or Potmi, and becoming so upset when Bird would talk to another parent in Pranto while Lamb was present. As if they other members of their family were deliberately trying to keep secrets.
+
+But Bird did her best to keep checking up on her aging parent. If she didn't, Bird would come home to notes through her door or worse, Lamb herself waiting in her pod.
+
+Bird's Fonu registered an incoming message with a slight vibration. It was from Moss. [Need to talk urgently. Your place at three quarters growth?]
+
+Bird checked the time. It was almost half growth. While the message was unexpected and slightly foreboding, Bird couldn't help but be glad of a deadline of sorts on this lunch. She replied with a confirmation.
+
+Over the meal, Lamb prattled on about their students. Lamb taught mathematics; advanced courses to adults, and the very beginnings to toddlers. Sometimes, it seemed to Bird, Lamb struggled to tell the two groups apart.
+
+Preoccupied with Moss's message, Bird struggled to pay attention to the conversation. Lamb hardly seemed to notice.
+
+"I'll walk you home," said Lamb after Bird had cleaned up.
+
+"No need," said Bird. "I should hurry. I have an appointment."
+
+"What appointment?" It was the first question Lamb had asked Bird about herself so far.
+
+"It's a mycolabs thing," said Bird.
+
+"That place," sneered Lamb, their voice gravelly but with a hint of a whine. "Once you're in you'll never get out. It was a mistake you joining that. They take everything from you."
+
+"That's not true," Bird sighed. "Chinchilla left. It's no different than any other function." Bird did not feel inspired to have this argument for the whole journey home. "I really have to go. I"ll see you again soon."
+
+She took her leave before Lamb could pull herself out of their deep sinking chair and insist.
+
+Moss was waiting at her pod when she got back.
+
+"Come with me," he said at once.
+
+"Don't you want... to come in?" But he was marching towards the chutes. Bird followed. He didn't speak as they waited, apparently for a specific chute to become available. They stepped inside, and rode up and down until the final other person had left and nobody else entered.
+
+"What above the clouds are we doing?" Bird kept trying to ask, but Moss would not answer. Finally when they were alone, he touched his hand to one side of the chute, and all at once it stopped.
+
+"What! How did you do that?"
+
+"That is not important. I need to ask you about the Zhomics."
+
+The small space didn't allow Bird much room to step back, but she tried anyway.
+
+"What about the Zhomics?"
+
+"What do they have in the Sheldrake Loop?"
+
+"What?" Bird stammered. Torn between telling all and denying all knowledge, she hesitated just a little too long. She had been entirely unprepared for an interrogation.
+
+"I know you've been there," Moss said. "You know this. Nubo knows this. What Nubo knows, I know."
+
+Bird was starting to feel that his behaviour was altogether menacing. She pulled herself together.
+
+"They have homes on there," she said. "I went to visit some friends of Gull. They told stories and we drank sib tea. Their pods are just like the ones in Turing. Why are you asking me about this? Why are you spying on me?"
+
+Moss looked at her intensely for a few moments, then sighed. Whatever control he had over the chute, he relinquished it.
+
+"I had a bad experience with the Zhomics as a child." He said at last. "I worry about you, that's all."
+
+When the chute reached Bird's level, she stepped out and walked briskly towards home without looking back. Moss did not follow her.
+
+## …
+
+## (chapter)
+
+The encounter with Moss, once it had sunk in, left Bird shaken enough that she stayed in her home pod for a few days. She drank warm drinks, ate easy, instant food, and poured over Zhomic writings about the planet.
+
+She checked and re-checked all the sensors she knew to be available in her pod, and disabled everything she could. Some she couldn't turn off, but could use her Fonu to feed false information into. She slept in fits and starts, and dreamt of the jungle, and of being followed, and of being lost far below down on the planet. Perhaps she wanted to go there after all. She could go there, she thought, with the Zhomics, if their plan was going to work. She could help them carry it out. But surely that idea was ridiculous.
+
+She started to realise she might benefit from some outside opinions.
+
+Bird was jolted back to reality by a message from Chinchilla: [Worried about you-know-what. Can we talk? Come over.]
+
+Off the top of her head, Bird could think of a fistful of things Chinchilla might be worried about. Whatever specific one she was referencing in the message, it elluded Bird. She dragged herself out from the depths of her reverie, washed herself, drank water, and tried to prepare her mind for thinking about something other than the Zhomics.
+
+Chinchilla's pod was, in structure and layout, the same as Bird's. An open space with a small food preparation and seating area that followed the curving contours of Nubo Station. At one end, a nook for sleeping. Bird chose to nestle amongst pillows on the floor, while Chinchilla's bedding was raised up, three quarters of the way to the ceiling, so that she could use the space underneath. Basic facilities for waste disposal and personal hygiene were tucked off to one side. For that, and for cooking, more elaborate facilities were available communally, at various points in the Residential District.
+
+The primary way in which Chinchilla's pod differed from most others was that it was full of _stuff_. She spent much of her free time studying old documentation about artefacts from the time before the Elevation. Records were limited and most of what was available was, in Bird's quietly held opinion, highly speculative. But that didn't stop Chinchilla pushing her materials allowance to the absolute maximum to recreate strange antiques with unclear purpose.
+
+She also re-appropriate other objects - tools, fabrics, leftover construction materials, bolts, circuitry - and combined them to make abstract constructs, leaning into preservationist fantasies of what human life might once have been like.
+
+Most of it appeared as art. To some visitors, Chinchilla's pod was a beautiful and fascinating exhibition. Objects hung along the walls from strings, were packed into jauntily angled shelves, and filled woven hammocks that visitors had to duck their heads to avoid when walking around. It was one of the most colourful places Bird had been on Nubo, at least, until she had seen the Zhomic mycolab.
+
+On this visit, Chinchilla's pod was even more of an explosion site than usual. On top of the ordinary clutter, she had projections of documents and diagrams and equations littering any spare space on the walls and ceilings.
+
+"Are you okay?" Said Bird when Chinchilla opened the door, squinting out like she had been in darkness and was seeing bright light for the first time. "What's going on?"
+
+"Thanks for coming," said Chinchilla, hurriedly making space, as if Bird had shown up suddenly and unannounced. "I've been... untangling things. Or unravelling, ha. Something or other. But you don't look too great yourself."
+
+Chinchilla arranged some seating cushions on the floor and handed Bird a mug of dark savoury soup.
+
+"I've been unravelling a bit too, these past days," Bird admitted. She hadn't thought to look in a mirror before she left home, but if she had she would have seen herself with a washed out expression, her wide, round eyes ringed with dark shadows, and her curly hair hanging limp and damp.
+
+"Do you want to go first?" Asked Chinchilla.
+
+But Bird waved her hand for Chinchilla to go ahead.
+
+"I've been looking more into terraforming. It's basically complete planetary destruction. There are ways to do it that are restorative, but... I've also read a bunch of Cap'ista literature, and I am entirely convinced destruction is at the heart of everything they stand for."
+
+"I thought they were morons?"
+
+"Largely, yes. Their ideology is idiotic. But if you dig around enough there are definite indications - now, I'll try not to get into conspiracy theory territory here, but that has been basically impossible when looking into this - but there are _some_ grounds for the belief that their ideology, or something similar to it, maybe the actual origins of it, was actually what led to the planetary ecosystem collapse in the first place."
+
+Bird shook her head. "Come on Chilla. Don't go there." Everyone knew that speculating about the cause of the collapse was a fruitless endeavour. Doing so had been known to drive people completely starward, destroy friendships, cause schisms in whole families. The data just wasn't available to confirm; every explanation could be made convincingly plausible if you looked at it long enough. Bird, like most, had carefully avoided thinking and talking about it for most of her life. She could accept, with relief, that humanity could not and never would know and that they just had to build from there.
+
+She wasn't surprised, however, to find no such inclinations in Chinchilla.
+
+"Okay, but without speculating about that," she added, hoping to divert the track of the conversation away. "Present day Cap'istas just don't have the capacity, the resources, to do any real harm, surely? Even if in principle they would want to?"
+
+"On the surface that is certainly true," said Chinchilla. "But I don't think it's just them. I think they're being used as a front for someone else. Or a cover. Or just helpers to do the legwork. Look."
+
+Chinchilla cycled through three-dimensional projections in the air in front of them until she pulled up a recent Station Incident Report.
+
+"It's a footnote," she said. "Barely a mention in the tendaily. I wouldn't have seen it if I didn't have a monitor set up for anything remotely related to what the Cap'istas might be up to."
+
+A couple of sentences, was all it was, about a shuttle missing from the Flemming Loop docks.
+
+"It was at the same time as station security stopped the shuttle theft from Sheldrake. All the efforts were focussed on that. And why wouldn't they be? That's the only place active shuttles are in use, for Nubo III. The ones in Flemming are derelicts. Or so I thought."
+
+"So it wasn't working? How did anyone get it out there? Where has it gone?"
+
+"The security reports from the Flemming docks are not classified, but they're not exactly accssible. Looks like their admin is a complete mess up there."
+
+"I thought all the station systems were supposed to be completely unified."
+
+Chinchilla rolled her eyes. "They are _supposed_ to be. Sometimes I think it's a miracle this place even stays in the sky. When Nubo was built, Flemming was the first Loop. You know your history right? It was an emergency evacuation, done in a relative hurry.
+
+"Right. it was all residential to start with, and now there's no residential part of it at all?"
+
+"Yes, but importantly its computing systems are actually completely disjoint. They supposedly federate, but nothing ever works quite as designed. Anyway, that's probably what made Flemming a better option to steal from."
+
+"So why bother with Sheldrake? Seems like a lot of work for a distraction."
+
+Chinchilla shrugged. "Maybe I'm paranoid and its completely unrelated. I _did_ manage to call in a favour and get the full report from Flemming docks, and _they_ say there are three tendays between shuttle inventories. On the second most recent, a shuttle there was in bad condition but theoretically flyable. On the last one, nada, no shuttle. Their theory is that that's enough time for a couple of people to disassemble it and take it out part by part. But most likely it was incorrectly flagged for recycling, so it was dismantled and removed over a couple of days. There's not really anywhere you could reassemble a shuttle anyway, even if someone did sneak all the bits out somehow. But that's it for them - case closed."
+
+"But you don't think that's what happened."
+
+Chinchilla flipped to another projection; traffic logs for an industrial interloop chute.
+
+"Within that thirty day window, industrial chutes were running directly between Flemming and Sheldrake on sixteen occasions. On four of those occasions," Chinchilla gestured to filter the logs, "a container with enough capacity to hold, say, a shuttle, was moved down."
+
+"What are they moving? I mean, supposedly."
+
+"It's all reclaimed materials for Nubo III. A lot of broken or discontinued machinery goes up to Flemming for dismantling and recycling. But there's a big push to reuse parts before using energy for recycling them. And in the last, oh I don't know, cycle or so, the Nubo III project seems to have really latched onto that idea." She swiped to show some charts. "They've been publishing stats about their materials reuse even. But that's besides the point. On one of those four occasions, the container came from the docks." Chinchilla looked smug.
+
+"So... where does that leave us?"
+
+"It leaves us with a viable way the shuttle could have been removed from the docks in one piece."
+
+"And security in Flemming aren't even investigating because they think it was an accident."
+
+"Right."
+
+"You're assuming it gets moved to Sheldrake. What about large enough containers that stop at other loops?"
+
+"I've got a list," Chinchilla brought it up. "But given the Cap'ista activity in Sheldrake, that seemed like the best place to start."
+
+"Start? What are you planning to do?"
+
+"Well, hang on, there's more. I have the arrival manifest for that container's _arrival_ at the Sheldrake cargo sorting facility. Now Sheldrake cargo sorting is huge and busy because that's the main connection point for things going to and from Nubo III. Absolutely loads of stuff going in and out, by chute, zipline, freight drones, and even occasional shuttles. Everything is always full. Always. But look."
+
+Bird scanned the manifest Chinchilla had put up in the air. It contained a lot of part numbers and names of equipment she had never heard of.
+
+"Certainly looks full. Oh I get it. It's a thousand small things that add up in volume to the container minus exactly the volume of the missing shuttle?"
+
+Chinchilla laughed. "Better. It's actually harder to hack than that as space is really a premium on these transports. Unused capacity would be flagged at once. From here," she zoomed through the manifest, then paused it. Several dozen of the line items were highlighted. "To here," she cycled the list along, showing many more highlighted lines. "Each and every one of these is-"
+
+"A shuttle part!"
+
+"The manifest is completely accurate. Down to the last bolt. Either the person logging receipt took one look at the shuttle and figured it was someone's idea of a hilarious joke, or they saw the size of the list and didn't care to look through it at all-"
+
+"Or they were in on it."
+
+"Or that."
+
+"So the obvious next question-" said Bird.
+
+"Is where did the shuttle go next? That's another, though on its own not eyecatching, unusual thing." Chinchilla pulled up yet more logs from the Sheldrake cargo hold. "These large containers usually are full of things bound for multiple places in the end. But this one, the whole lot was handed over as one to its recipient."
+
+"Who was?"
+
+Chinchilla pointed at the display. "Gnat, a materials coordinator for Nubo III construction."
+
+Bird hesitated. "Please tell me they're a known Cap'ista?"
+
+Chinchilla shook her head. "Just a regular person as far as I can tell."
+
+"What! So this whole container could be completely legitimate Nubo III materials transfer? Maybe the shuttle really _was_ broken down for parts. Chilla, I know you spent a lot of time on this, but-"
+
+"But that's where the train ends. This is in and of itself strange. For a container that large there should still be more of a document trail. Where did it end up next? But it was checked _out_ of the docks system, marked as collected, but not checked into any other system anywhere on Nubo."
+
+"That you have access to."
+
+"I have access to all the systems!" Spluttered Chinchilla. "That's the point! So, I started processing all the sensor logs of the whole of..." She trailed off as she registered Bird's exhausted expression, then sighed. "Okay let's take a break. Why don't you tell me about what you have been unravelling?"
+
+After a long pause, Bird said, "do you know what the Zhomics plan for the planet is?"
+
+"I didn't know they had much of a manifesto about the planet. Do you?"
+
+Haltingly, Bird explained what she had learned from both Gull and Coral about mycoforming. As best as she could she framed it as a restorative process, so that Chinchilla wouldn't immediately dismiss it as yet more plans for planetary destruction.
+
+To her relief, Chinchilla seemed to accept this.
+
+"It does sound plausible," she nodded. "And the fungi ultimately come from the planet. So it makes sense that they would naturally return it to a state of equilibrium. But it would take a long time to develop strains that would take hold in the conditions out there. You would need exactly the right combinations of things. It seems more likely that Coral and his team will get there first, than the Zhomics."
+
+"Well, that's the thing," Bird peered down into her empty mug, and sighed. "The Zhomics are already there."
+
+It took some time to convince Chinchilla that Bird really had seen the wild mycolabs and it hadn't been a complete sib tea induced hallucination.
+
+"I'm just, really worried about Moss. That whatever this new system he's developing is, he's going to find them, after so many cycles of them staying hidden. I think I should warn the Zhomics. Do you think I should warn them? But I don't now what they could do about it."
+
+Chinchilla looked thoughtful. "I think you're right to be wary of Moss. I was never sure what Coral sees in him. So, the Zhomic jungle. Is it on levels eight to ten of the Residential District in the Sheldrake Loop?"
+
+"What!" Bird gasped involuntarily. "How did you know that?"
+
+"Well, that's the next piece of my puzzle," said Chinchilla. "I set up various monitors for patterns in sensor data across Sheldrake, to look for anomalies. It was not obvious. Really impressive work, actually. I probably wouldn't have spotted it if I hadn't been a bit, uh, obsessed. But look." Chinchilla pulled up a series of different charts that filled the space in front of them. As she gestured, one set of figures centered itself with others passing around them. This is levels eight to ten, various readings over one whole cycle."
+
+"Looks normal," said Bird, not really knowing what she was looking at.
+
+Chinchilla continued to move her hands in complex gestures. Sections of the peripheral charts highlighted themselves and mapped onto sections of the centered charts.
+
+"The whole lot is a composite of readings from other parts of the Residential District. _All_ of it."
+
+"Couldn't that be a coincidence? Readings that are similar?"
+
+"Well you know already that it's not. But I didn't, so I ran four kinds of analyses on all of the patterns. Coincidence - across tens of cycles by the way - is statistically unlikely. And in any case, what you just told me confirms my theory." Chinchilla paused. "Well, it confirms the theory someone is hiding something in the Sheldrake Residential Distrct. Only it's not a secret construction area for the Cap'istas after all. Hmm."
+
+Bird slid off the cushion and lay on her back on the floor. The charts and graphs continued to shimmer in the air above her as Chinchilla's investigation was automatically replayed.
+
+Bird wondered if perhaps she had made a mistake in telling Chinchilla so much.
+
+"Don't worry, the Zhomics' secret is safe with me. Look, I've had an idea." Chinchilla fiddled with her Fonu again. The charts disappeared. "Let's go to the Zhomics for help."
+
+"What?" Bird sat back up.
+
+"They obviously have a presence in Sheldrake. In the security systems. I mean you obviously trust them. And they obviously are going to want to stop any Cap'istas - or whomever - plots to terraform the planet. So let's go talk to them about it."
+
+"I don't know," Bird's stomach churned. "I don't think I should really have told you about their mycolab."
+
+Chinchilla smirked at calling the Zhomic creation a mycolab. "But I told you my theories first. Look okay. You talk to Gull. Tell them what I've said. See what they suggest, and then if anyone wants to hear it from me they can invite me. And perhaps as an extra gesture, yes, warn them about Moss. Meanwhile, I'll poke around and see what he might have been up to."
+
+Knowing that Moss might have a system that discovered more about the Zhomic's activities in Sheldrake than Chinchilla had been able to, Bird realised that Chinchilla would not be able to resist the urge to compete.
+
+Chinchilla transferred enough data to Bird's Fonu to allow Bird to back up her story if necessary to the Zhomics. As she walked home, Bird composed and re-composed a message to Gull to arrange a time to talk this all through.
+
+## …
+
+## (chapter)
+
+Bird visited Gull in their studio in the Dome. When she arrived, Gull was weaving ribbon and glittering thread into an elaborate tower of greying plaits heaped on top of the head of a small, elderly woman, whose skin was the exact same shade of light brown as was Gull's.
+
+She had arrived earlier than planned. Bird took a seat by the entrance, but as she waited she couldn't help but be captivated by the woman's eyes looking back at her via a reflection in the mirrored wall. They were a warm, rich blue, hooded and set into a face with a maze of lines so deep one could get lost in them. It was difficult to tell if the woman was smiling or scowling, but Bird felt an inexplicable affection for her nonetheless.
+
+When Gull was finished, they exchanged words in a language with which Bird was not familiar. The woman was hunched when she stood, and moved slowly, helping herself out of the studio with a smooth black cane.
+
+"Her grandchild's bonding celebration," Gull gestured after the woman as the door slid shut behind her. "They follow Ti Amo traditions. She taugth me how to style hair that way more than fifteen cycles ago. I've done it for her, oh, eleven times now?"
+
+"It's beautiful," said Bird. "How long did it take?"
+
+"She had breakfast here, and then we got started."
+
+"Wow. You must be ready for a break."
+
+"I am. And something more to eat. Do you want anything?"
+
+Bird shook her head. Gull reached into a small cooling unit and pulled out a bowl of crunchy dried kibble that they dug into with a spoon.
+
+"So, what do you know about terraforming?"
+
+Bird launched into the long explanation of Chinchilla's theories, without mentioning exactly where they had come from, while Gull listened, chewing quietly.
+
+"I have... there are some connections here." Said Gull, to Bird's surprise, not asking a single question. "I think we might need to get a Zhomic elder involved. Forgive me but... you didn't research all of this yourself, did you?"
+
+"You haven't met Chinchilla. She is a station security expert. I've known her for a long time."
+
+Gull nodded. "If you trust her, that's good enough for me. Come on," they set their bowl aside. "We can go now."
+
+Gull led Bird through the Dome and outwards to a chute. They travelled to the Education District, and Gull guided her without so much as a single glance at a Fonu map through several identical corridors, to a room labelled _Fell_. They didn't enter though. Instead, Gull fired off a short message from their Fonu, and waited.
+
+Eventually the door opened and a teenager stepped out.
+
+"Gull," he said softly. "Please wait a moment." He did not acknowledge Bird.
+
+But she observed the boy. He was taller than she was, and lanky, though his face was youthful and smooth. Soft blond hair fell to his shoulders and his eyes were blue, but almost violet. He wore a white Zhomic robe, but it fell open at the front to reveal a loose grey tunic and tights underneath.
+
+"Thank you, Voyria," said Gull. The boy inclined his head ever so slightly, then continued to stare straight ahead, his whole manner somewhat robotic.
+
+Bird tried to catch Gull's eye, to convey some kind of silent communication about this strange behaviour, but Gull steadfastly avoided her.
+
+After some time of what felt to Bird like an increasingly awkward silence, Voyria turned back to the door, which slid open.
+
+"Come," he said. Gull strode confidently forward.
+
+The room was larger than Bird expected, and completely devoid of any furniture, not even floor cushions. Four people were seated cross-legged on the floor at wide intervals. They were clad in Zhomic robes, with their hoods up, eyes closed with straight backs, as if in meditation. One of them, she realised, was Dolphin.
+
+When Bird stepped over the threshold into the room, she felt for a moment like she was falling. She caught herself and looked up. Now the room was filled with sounds of the teeming life of the jungle, rustling, dripping, scrabbling of creatures. Shadows flitted across the walls, in the corners of her vision, impossible to catch in view if she tried to focus on them. She felt herself surrounded, though nothing visibly had changed. The sounds faded into the background; the hair on her arms stood on end.
+
+Voyria went to sit on the floor, closing his robes and pulling up his hood as he did so. Gull remained standing beside Bird, but their eyes were closed and a serene smile was on their face.
+
+Bird's feet felt heavy, like she was standing in thick mud. The unfamiliarity of it all gave her a little panic. She tried to turn to step back out of the room, but couldn't. She felt Gull and Dolphin's hands on her shoulders, reassuring, though neither had moved.
+
+She knew she had to calm herself. She reached for the memory of soaring high above the jungle canopy, the peace she had felt while doing so.
+
+As well as Gull and Dolphin, she could feel Voyria's presence now too, and then, gradually, two others. It was like being in two places at once. She was present in the sparse, silent teaching room, and she was also in a loud, bustling, busy place, linked arm-in-arm, heart-in-heart, with the others.
+
+"You feel it most powerfully, I think." A voice startled Bird's focus into the room. Someone Bird had not noticed when she entered stepped out from behind the lecturn at the front of the room. "I am Vole. Welcome to our network."
+
+Bird shook the proffered hand, still unable to tear herself away from the other layer of existence within the room. Vole's voice was deep and warm, their skin very dark, and their hair fell in thick dreadlocks well past their waist. They seemed simultaneously old and young. Vole was not wearing Zhomic robes.
+
+"I... what is happening?"
+
+"We are connecting," said Vole. "Learning how to share our consciousness. What you felt was the very edge; a reflection or an echo. If you like, you can learn to experience it fully."
+
+Bird looked sideways at Gull. Their eyes were open now, and fixed on Dolphin.
+
+"They are returning to their bodies," Vole continued. "Voyria has gone to fetch them. Here they come."
+
+Dolphin's eyes opened first. He beamed when he saw Bird and at once stood to walk over to join her and Gull.
+
+Slowly the sensation of being somewhere else dissipated. Bird began to feel a little cold, and realised that she had been feeling the warmth of the jungle before.
+
+The door opened again. This time, Buffalo stood on the other side. He frowned in surprise when he saw Bird, but only for a moment. Then h inclined his head in greeting. Led by Voyria, the two other teenagers filed out to join him. Bird did a double take as they passed, when she saw that one of them was almost identical to Voyria in every respect, but with golden hair tied up in a bun rather than hanging free.
+
+"Come, Dolphin," said Buffalo.
+
+Dolphin frowned and looked at the floor. Gull took his hand and something silent passed between them. He turned and followed the others into the corridor.
+
+"Sit," Vole invited, producing some cushions. Bird and Gull joined Vole on the floor by the lecturn. "Gull has told me you have information to share."
+
+Bird blinked. "How...?"
+
+"Ah, Dolphin must have got it from me," said Gull. "And shared it with Vole just now."
+
+"Is this telepathy?" Bird was incredulous.
+
+"Oh, no," said Vole. "Nothing like that." But they didn't explain further.
+
+"Tell Vole what you told me about the terraforming," urged Gull.
+
+"In short," Bird found herself wishing for Chinchilla's expertise to back up the charts she projected into the air from her Fonu, in the face of Vole's searching eyes. "There's evidence compiled from systems logs in multiple different loops that the Cap'istas , probably working with someone else, are building a, uh, terraforming machine of some kind. And that they have the means to get it down onto the planet."
+
+Vole looked at Gull.
+
+"I thought I should bring her straight to you, because, well..."
+
+"How much does your friend know?" Asked Vole gently. Bird's heart sped up.
+
+"She's been to the jungle," said Gull. "But that's all."
+
+"Gull brought you here, dear, because we have our own ideas about terraforming. In short," Vole gave a half smile, "when we release spores from the jungle onto the planet, they will work to restore the poisoned lands, and in turn heal the seas and skies. Our colllection have been carefully raised and composed to consume the toxins that are out there, _beyond_, and turn them again into substances that can support life."
+
+"How long... would that take?" This was starting to sound to Bird like far more than the hypothetical theory Gull had put to her.
+
+"Hundreds of years," said Vole. "Maybe thousands. Realistically. Though there are some how are convinced it can be done faster." Vole smiled gently at Gull. "Buffalo is one. But if, as you say, other terraforming may take place, this would alter things substantially. It could corrupt or even completely undo our work."
+
+"Do you need to be on the planet to release spores?" Asked Bird, in spite of herself, unsure about whether she really wanted to know any actual details of this plan. "Or can you do it from here?"
+
+Vole waved a dismissive, long-fingered hand. "The technicalities are not my specialty. But this information is valuable, and I thank you for bringing it to us. Now, may I ask how you came by it?"
+
+"I have... a contact with access to security logs." As she said it, Bird wondered if Gull, whether intentionally or not, had already given up Chinchilla's name and function.
+
+"Does your contact know you have come to us?"
+
+"Yes, it was... my contact's idea. That you might be able to help expose the terraforming plan. And stop it."
+
+"Bird," said Vole. "Do you support the goal of rehabilitating the planet?"
+
+"So that it can support life again? Of course."
+
+"Support life, yes. Life in all its diverse glory. We are aligned And your contact too, I suppose?"
+
+"Yes."
+
+"Then you can tell your contact not to worry. The planet will be safe on our watch."
+
+"What will you do?"
+
+"We have our own lines of enquiry to pursue. You, too, should not worry. You will hear from us again. Meanwhile, I suggest you go about your life in an ordinary manner."
+
+"Right," said Bird, unable to shake her feeling of apprehension. She could tell that the conversation was over, but did not get up.
+
+Vole did, however, and Gull immediately rose as well. "I must attend to my students," Vole said. "It was nice to meet you, Bird." And they left.
+
+"Come on," Gull plucked at Bird's shoulder. "Are you okay?"
+
+"I feel like I'm missing something," she sighed and put her face in her hands. Gull sat back down beside her. "Are you all really reading each other's minds?"
+
+"Definitely not! I don't really understand how it works," Gull admitted, "but the network is about tapping into a layer of consciousness that is already there, a part of everything. _I_ can't 'tap in', to be clear," they added hurriedly. "But Dolphin is learning, and the other three, we call them the nodes. They can feel it most strongly. Vole is also a node. There are others. Dolphin and me... our connection... they, the Zhomic elders I mean, they think it's related to the network, but it's not the same."
+
+"What is it all for?" Bird asked.
+
+Gull shrugged and smiled. "Taking humanity to the next level. Evolution. Empathy. All that."
+
+"The Zhomics really have a lot more going on than I realised."
+
+The door to the room slid open and a group of students began to pour in. The lectern hummed into life and a holoprof started to take form beside them. Gull and Bird scrambled to their feet, and squeezed out into the corridor.
 
