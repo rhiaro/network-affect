@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2022-11-28 20:22:48">
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2022-11-29 22:49:08">
   <project>
     <name>Network Affect</name>
     <title>Network Affect</title>
     <author>Rhia Ro</author>
     <saveCount>2</saveCount>
-    <autoCount>229</autoCount>
-    <editTime>2385345</editTime>
+    <autoCount>240</autoCount>
+    <editTime>2480525</editTime>
   </project>
   <settings>
     <doBackup>True</doBackup>
@@ -16,9 +16,9 @@
     <autoOutline>True</autoOutline>
     <lastEdited>bf0a646aa78da</lastEdited>
     <lastViewed>None</lastViewed>
-    <lastWordCount>34111</lastWordCount>
-    <novelWordCount>31848</novelWordCount>
-    <notesWordCount>2263</notesWordCount>
+    <lastWordCount>36375</lastWordCount>
+    <novelWordCount>34102</novelWordCount>
+    <notesWordCount>2273</notesWordCount>
     <autoReplace/>
     <titleFormat>
       <title>%title%</title>
@@ -74,10 +74,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>180715</charCount>
-      <wordCount>31841</wordCount>
-      <paraCount>835</paraCount>
-      <cursorPos>182472</cursorPos>
+      <charCount>193243</charCount>
+      <wordCount>34095</wordCount>
+      <paraCount>887</paraCount>
+      <cursorPos>114867</cursorPos>
     </item>
     <item handle="5455c1f3a1c70" order="1" parent="None">
       <name>Plot</name>
@@ -93,10 +93,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>NOTE</layout>
-      <charCount>2803</charCount>
-      <wordCount>473</wordCount>
-      <paraCount>19</paraCount>
-      <cursorPos>22</cursorPos>
+      <charCount>2869</charCount>
+      <wordCount>483</wordCount>
+      <paraCount>21</paraCount>
+      <cursorPos>69</cursorPos>
     </item>
     <item handle="c11790a07a2de" order="1" parent="5455c1f3a1c70">
       <name>plot</name>
@@ -120,7 +120,7 @@
       <charCount>3055</charCount>
       <wordCount>503</wordCount>
       <paraCount>11</paraCount>
-      <cursorPos>1336</cursorPos>
+      <cursorPos>3204</cursorPos>
     </item>
     <item handle="f4c324831a8f7" order="3" parent="5455c1f3a1c70">
       <name>sco - plot dump</name>
@@ -290,7 +290,7 @@
       <charCount>266</charCount>
       <wordCount>44</wordCount>
       <paraCount>5</paraCount>
-      <cursorPos>291</cursorPos>
+      <cursorPos>260</cursorPos>
     </item>
     <item handle="80ae655a26109" order="2" parent="b8244af0abf8a">
       <name>Beyond</name>
