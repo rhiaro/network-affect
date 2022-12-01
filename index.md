@@ -1028,7 +1028,111 @@ Then she was back in her seat and the moon was continuing its journey. The sun b
 
 TODO: Gull's job and tattoos
 
-## …
+## .. rocks walking
+
+Over the course of the day, the relatively flat, solid terrain became more and more treacherous. Sushi's energy seemed limitless, and the gap between her and Mustard was gradually increasing. Hard, flat mud had given way to shifting slate and gravel. The dark stones were piled in mounds as if some enormous claw had reached in and churned up the rock. Mustard scrambled around the sides of the heaps, never knowing when a stone would give way under his foot and send him sliding down the side to break his body on a jagged boulder some way below. His ears rang and his heart was permanently in his mouth, but it was all he could do to keep Sushi in his sights.
+
+Finding himself on the side of an almost vertical rock pile, and Sushi walking below in a valley that ran for some distance between mounds, he saw the fastest - and perhaps only - way to follow her was straight down.
+
+Mustard backed himself against the slop and dug his heels in. Each step he took was more of a slide, a rearrangement of the stones underfoot to move himself downwards. He flailed his arms for balance, repeatedly remembering just in time not to grab at the stones lest a sharp edge cut his hands.
+
+Some of them were viciously sharp. The height was not what he was afraid of. it was nothing compared to leaning over the edge of the roof of the Great House, or clinging precariously to the rope in the drop shaft. The sensation of a ground constantly in motion was what set his stomach churning and head spinning. Never knowing if the next step would betray him and send him tumbling over and over until he was torn to shreds by the oblivious, uncompromising slate.
+
+He reached the bottom, trembling. His progress had been so agonisingly slow that Sushi's small form was now out of sight, hidden by some protrusion of the uneven landscape. He paused, and when the thudding of his own heart died into the background, he could hear the soft crunch of her steps in the distance. He dare not call out to her. The silence was so absolute and smothering that he feared to break it would bring something tremendous and unspeakable down on their heads.
+
+He hurried forward as best he could. Water had gathered at the bottom of this valley in pools so still they might be mistaken for solid ground. They were foul, brown and putrid, clouded with whatever repellent particles had rained down from the angry sky, or washed out from the gaps between the stones in the mounds.
+
+Mustard avoided the pools as best he could, and faced with a choice between a half scramble up the side of a slope or dipping the edge of a foot into the repugnant water, he took his chances with the rock.
+
+Sushi came into view, picking her way carefully along a trail of her own design. She had slowed down enough that a little while later, Mustard caught up with her.
+
+"Look," she whispered, barely audible, pointing at something on the ground.
+
+Mustard's eyes were drawn to a glittering white rock, standing out vividly against the grey. Sushi bent to pick it up. It covered her palm as she held it. The rock was a small cluster of tiny crystals, sparkling in adamant defiance of the thick grey clouds overhead.
+
+Looking up at their route ahead, Mustard realised that many such white shards stood out.
+
+They progressed slowly, excitement at this new discovery temporarily outweighing Mustard's apprehension, both pointing out new specimens to each other. Some, like the first Sushi had picked up and which she still held on to, were broken chunks of crystal, scattered on the ground like any stones. Other brilliant flashes drew them which were part of a much larger boulder, embedded in or integral to, it was impossible to tell.
+
+At one point, they both stopped to gawk at a huge gash in a large rock, wider across than Mustard's face, a deep crystal cave that had formed with facets of purple and amber alongside the white. Sushi reached to poke her fingers inside, but Mustard gasped and pulled her hand back.
+
+"Don't," he breathed. "It might... be sharp."
+
+In truth it looked like a fang-filled maw which he envisioned clamping down on her hand and never letting go.
+
+They valley they were walking in began to narrow. It curved and wound itself between rock piles until finally they had no choice but to climb upwards again. Their path was still dotted with shimmering crystals, but they caught Mustard's attention less and less as the light grew dim.
+
+They summited a broad pile of rocks which seemed from below like it might flatten out on top, but it swept downards again in an uneven cascade, until it  merged into the base of the next nearest peak. It was high enough that the pair could see far, but in no direction could they observe a change in the terrain.
+
+Mustard's head swam, as for a moment he lost track of which direction they had come from. Sushi forged ahead.
+
+"Wait," he cried, stumbling after her. "It's getting too dark. We need to stop."
+
+She frowned and looked around. Up to the sky, then back down at their rocky path.
+
+"Okay," she nodded. "Over hear."
+
+Sushi quickly found them a place to rest where the ground beneath them was a finer gravel and not too pointy. Mustard ate hungrily from their supplies. Sushi looked at the food he handed her like she had forgotten what it was for, before eating it slowly. They curled up together on a blanket Mustard unfurled from the pack. As he finally gave his limbs in to exhaustion, Mustard listened to Sushi's breathing. It was light, but irregular. He had a sense that she was nowhere close to sleeping.
+
+* * *
+
+For three days they advanced thus.
+
+Even the occasional amethystine geode or magnificant smooth face of a large piece of smokey quartz did not relieve the monotony.
+
+Mustard no longer felt the soles of his feet. No longer questioned the direction in which they walked. He focussed the little energy he had on reminding Sushi to eat, drink and sleep, and that was all.
+
+On the fourth day, the landscape changed.
+
+It was gradual. Mustard didn't notice it at first, but eventually he realised his steps were feeling less perilous. Further between were the times a rock appeared to spring away under the pressure of his foot. The mounds still rolled ahead in peaks and troughs but the stones were becoming smaller and smaller until everything was gravel; in some places, almost sand.
+
+The going became more difficult again, every step twice as much work as his feet sunk into the lose ground. Mustard still couldn't shake the feeling of being watched, and once or twice was sure he saw movement out of the corner of his eye.
+
+But it was just the ground shifting, small stones disturbed after having been left untouched for countless decades, now free to rattle down the hillside as Mustard and Sushi's passage reconfigured everything.
+
+Sushi stopped so suddenly Mustard almost walked into the back of her.
+
+"We're here," she said.
+
+Mustard looked around. Rolling grey dunes in all directions. "We're where?"
+
+"The fork in the path. It's here." Sushi frowned, concentrating.
+
+Mustard took the opportunity to sit down. Sushi remained standing, uncannily still. Mustard was trembling and breathing hard from hunger and exertion, but as his body began to relax ever so slightly and he looked over at Sushi, only a little taller than him as he squatted, he was struck by how completely frozen in time she seemed to be, like a statue. She didn't twitch, or even blink.
+
+Movement instead came from elsewhere. Again out of the corner of his eye he saw a cascade of sand, and heard another out of sight. He wondered briefly if their intrusion on the place might trigger the whole bank on which he sat to collapse and bury them both.
+
+"Stop it," said Sushi. "Relax."
+
+Stop what? But Mustard couldn't open his mouth.
+
+The sense of awe and dread he had felt among the conical towers was creeping back. Each pebble and grain of sand beneath them had a history and a future and we're as old as the planet itself and it was too much to fit in his mind. Many thousands of stones, more than he could grasp, had once been part of larger boulders, which had been part of solid cliffs and mountainsides. Mustard glimpsed, just for a moment, the planet in its entirety, whole and then crumbling under forces of weather, water, gravity, heat, and machines. Aeons of change, unceasing change, leading to this moment and nothing was still, with or without his passage, the change continued eternally.
+
+Sushi shook his shoulder. Mustard writhed on the ground, covering his face with his hands, then covering his ears to block out the strange keening sound that was filling the ait around them.
+
+"Mustard, stop it!" Sushi hissed. "Be quiet."
+
+The sound came from him, he realised, and he shut his throat, pulling himself out of his reverie and focusing on Sushi's pink eyes before him.
+
+His whole body was covered in pimples, every hair stood on end, tingling, and he felt a deep hunger arise. But he was not trembling. He sat up.
+
+The incomprehensible, infinite sense of all powerful time was still there, but like a painting in the background of his mind he found he could choose to focus on it or not. He clutched Sushi's hand tightly and focused on that instead. He didn't ask her what was happening. He knew she couldn't tell him. The sounds of falling stones were becoming more frequent, until it was a continuous torrent.
+
+Suddenly Sushi gripped Mustard's hand more tightly and pulled him upright. She threw her arms around his waist and squeezed and the ground fell away beneath them.
+
+* * *
+
+Mustard awoke from visions of crystals. They were growing around him at an accelerated rate, in long thick strands, branching and forking and changing diction. They were in colours that he could not place, perpetually on the edge of definition.
+
+He awoke in darkness, but as his eyes adjusted he began to see flashes of light bouncing off reflective surfaces all around him. The light was coming from an opening far above, through which the sky was just visible. _Fantastic,_ he thought, _the bottom of yet another massive hole._
+
+His body ached, but he could move all of his limbs. The surface he had landed on, oder neath the pile of gravel that had come down with him and filled every nook and crevice in his clothes, was smooth and flat and slippery. He struggled to his feet, and looked around for Sushi. His feet slid about underneath him when he tried to take a step, and stones rained from folds in his clothes with a clatter when he moved. The floor was sloped, and then he found the edge of it and almost fell again. He bent down to inspect it, finding a glassy face when he brushed gravel aside. He ran his hand along until he felt a sharply angled edge. The same in the other direction.
+
+Mustard looked up again, trying to make sense of his surroundings. It was a facet of a giant crystal, he realised, under his feet. Just like the small, glittering ones they had seen filling gashes in boulders. He had the horrifying sensation that he had been shrunk down to the size of his thumb and dropped into one of those bejewelled holes.
+
+"Sushi!" He hissed, scrabbling around in a crouch, feeling with his hands before he dared to place his feet.
+
+TODO: sushi injured but self healing. fungi eating crystals.
 
 ## A bright cold day in April
 
@@ -1044,7 +1148,7 @@ It wasn't like it would be impossible to visit. The plans included synchronisati
 
 There had been shuttles in the beginning, so Bird had been taught, but these days the idea of a flying craft was really a novelty. Nubo Station was an entirely self-contained system where, thanks primarily to the innovations of the mycolabs, pretty much any substance could be transformed, eventually, into any other. There was no need to leave the Station, except to work on Per La Suno.
 
-That's why when Chinchilla had told Bird, discreetly, about her current assignment, at first BIrd had laughed.
+That's why when Chinchilla had told Bird, discreetly, about her current assignment, at first Bird had laughed.
 
 Since leaving the mycolabs, Chinchilla had been working as a security advisor for computing systems stationwide. She was good at it. She knew where to look for potential breaches whenever new services or software updates were introduced. She knew how to explain the problems and recommend solutions in ways which didn't impinge upon the egos of other engineers. And she knew how to demonstrate their shortcomings if they chose not to take her advice.
 
@@ -1070,7 +1174,7 @@ Chinchilla paused. Bird waited, sensing she was on the verge of saying what she 
 
 In which Mustard and Sushi find out more about the railway.
 
-## (the zhomic fungal experiment)
+## Fungal jungle
 
 The Sheldrake Loop was the farthest Loop from Turing, and the closest one to the planet. It hosted a lot of the heavier manufacturing processes of Nubo industry. It was the base for Nubo III operations, as well as where structural replacements and reinforcements for Nubo itself were assembled.
 
@@ -1735,4 +1839,8 @@ Gull shrugged and smiled. "Taking humanity to the next level. Evolution. Empathy
 "The Zhomics really have a lot more going on than I realised."
 
 The door to the room slid open and a group of students began to pour in. The lectern hummed into life and a holoprof started to take form beside them. Gull and Bird scrambled to their feet, and squeezed out into the corridor.
+
+## …
+
+## (chapter)
 
